@@ -371,9 +371,9 @@
   {
     "project": "fxReports",
     "url": "https://github.com/VFPX/fxReports",
-    "description": "Community sharing of custom report features",
+    "description": "社区共享的自定义报表特性",
     "state": "Alpha",
-    "category": "Component"
+    "category": "组件"
   },
   {
     "project": "Gauge",
