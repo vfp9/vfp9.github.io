@@ -12,6 +12,7 @@ permalink: /projects/
 <td><strong>描述</strong></td>
 <td><strong>类别</strong></td>
 <td><strong>状态</strong></td>
+<td><strong>简体中文地址</strong></td>
 </tr>
 </thead>
 <tbody>
@@ -22,6 +23,7 @@ permalink: /projects/
 	<td>{{ project.description }}</td>
 	<td>{{ project.category }}</td>
 	<td>{{ project.state }}</td>
+	<td><a target="_blank" href="{{ project.url2 }}">{{ project.project }}</a></td>
 </tr>
 {% endfor %}
 </tbody>
