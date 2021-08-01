@@ -165,9 +165,9 @@
   {
     "project": "DDEX",
     "url": "https://github.com/VFPX/DDEX",
-    "description": "Visual FoxPro DDEX (Data Designer EXtension) Provider for Visual Studio 2005 (Sedna)",
-    "state": "Production",
-    "category": "Component"
+    "description": "用于 VS2005 的 Visual FoxPro DDEX (Data Designer EXtension) Provider(Sedna)",
+    "state": "完成",
+    "category": "组件"
   },
   {
     "project": "DeskTop Alerts",
