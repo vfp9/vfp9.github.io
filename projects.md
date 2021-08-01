@@ -45,7 +45,7 @@ permalink: /projects/
 <tr>
 	<td><a target="_blank" href="{{ project.url }}">{{ project.project }}</a></td>
 	<td>{{ project.description }}</td>
-	<td>{{ project.url2 }}</td>
+	<td><a target="_blank" href="{{ project.url2 }}">{{ project.project }}</td>
 </tr>
 {% endfor %}
 </tbody>
