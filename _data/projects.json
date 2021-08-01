@@ -285,9 +285,9 @@
   {
     "project": "FoxFaker",
     "url": "https://github.com/Irwin1985/FoxFaker",
-    "description": "Generates fake data for testing",
-    "state": "Production",
-    "category": "Tool"
+    "description": "生成用于测试的假数据",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "FoxISAPI",
