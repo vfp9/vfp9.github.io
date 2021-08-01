@@ -255,9 +255,9 @@
   {
     "project": "FoxBarCodeQR",
     "url": "https://github.com/VFPX/FoxBarCodeQR",
-    "description": "FoxBarcodeQR is a supplement of FoxBarcode only for QR Code.",
-    "state": "Production",
-    "category": "Component"
+    "description": "FoxBarcodeQR 是 FoxBarcode 的补充，仅用于生成二维码",
+    "state": "完成",
+    "category": "组件"
   },
   {
     "project": "FoxBin2Prg",
