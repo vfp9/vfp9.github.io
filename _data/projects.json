@@ -280,7 +280,7 @@
     "description": "类似于 Visual Studio 的 VFP 智能感应的扩展",
     "state": "Beta",
     "category": "工具",
-    "": "https://github.com/vfp9/VFPX_CN/blob/master/VFPX_FoxcodePlus_beta_3.13.2_CN.rar"
+    "url2": "https://github.com/vfp9/VFPX_CN/blob/master/VFPX_FoxcodePlus_beta_3.13.2_CN.rar"
   },
   {
     "project": "FoxFaker",
