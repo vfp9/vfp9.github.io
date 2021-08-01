@@ -3,16 +3,21 @@ layout: page
 permalink: /about/
 ---
 
-## About VFPX
+## 关于 VFPX
 
-### Project Administration
+### 项目管理
 
 [projects@vfpx.org](mailto:projects@vfpx.org)
 
-### VFPX Administrators
+### VFPX 管理员
 
 [Rick Schummer](mailto:rick@rickschummer.com)
 
 [Doug Hennig](mailto:dhennig@stonefield.com)
 
 [Craig Boyd](mailto:craig@sweetpotatosoftware.com)
+
+
+### 简体中文翻译
+
+[xinjie](mailto:411618689@qq.com)
