@@ -190,9 +190,9 @@
   {
     "project": "EnvironmentManager",
     "url": "https://github.com/VFPX/EnvironmentManager",
-    "description": "Manage and organize environment settings for reusable development needs (XSource)",
-    "state": "Production",
-    "category": "Tool"
+    "description": "为可重复使用的开发需求管理和组织环境设置 (XSource)",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "ErrorHandler",
