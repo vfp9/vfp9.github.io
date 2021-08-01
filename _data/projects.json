@@ -172,9 +172,10 @@
   {
     "project": "DeskTop Alerts",
     "url": "https://github.com/VFPX/DesktopAlerts",
-    "description": "Outlook style alerts are popup windows to message users",
-    "state": "Production",
-    "category": "Component"
+    "description": "Outlook 样式的桌面警告",
+    "state": "完成",
+    "category": "组件",
+    "url2": "https://github.com/vfp9/DesktopAlerts"
   },
   {
     "project": "Dynamic Forms",
