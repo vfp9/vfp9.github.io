@@ -364,9 +364,9 @@
   {
     "project": "FRXTabs",
     "url": "https://github.com/VFPX/FRXTabs",
-    "description": "Data-driven mechanism to extend the VFP Report Designer",
-    "state": "Production",
-    "category": "Component"
+    "description": "使用数据驱动技术扩展 VFP 报表设计器",
+    "state": "完成",
+    "category": "组件"
   },
   {
     "project": "fxReports",
