@@ -42,8 +42,8 @@ This is a list of other open source VFP projects that aren't part of VFPX.
 {% assign projlist = site.data.nonvfpx %}
 {% for project in projlist %}
 <tr>
-	<td><a target="_blank" href="{{ project.url }}">{{ project.项目 }}</a></td>
-	<td>{{ project.描述 }}</td>
+	<td><a target="_blank" href="{{ project.url }}">{{ project.project }}</a></td>
+	<td>{{ project.description }}</td>
 </tr>
 {% endfor %}
 </tbody>
