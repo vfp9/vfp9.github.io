@@ -2,21 +2,21 @@
 layout: page
 ---
 
-## Welcome to VFPX!
+## 欢迎来到 VFPX!
 
-The code, classes, and libraries made available here are the result of a community-based effort to support and extend Visual FoxPro. Anyone can join-in, help and propose new VFPX projects for possible inclusion in the effort. VFPX members are fans of FoxPro and they give generously of their time, resources, and ideas to make VFPX possible. A debt of gratitude is owed to everyone that has participated or otherwise contributed to VFPX. Thank you.
+这里提供的代码、类和库，是基于社区努力的结果，其目的是为了支持和扩展 Visual FoxPro。任何人都可以加入 VFPX，提出新的 VFPX 项目或为其提供帮助，以便将其纳入 VFPX。VFPX 的成员都是 Visual FoxPro 的铁粉，他们慷概的贡献了自己的时间、资源和想法，使 VFPX 成为可能。我们对所有参与或为 VFPX 做出贡献的人表示衷心的感谢！谢谢你们！
 
-### VFPX Discussion Forum
+### VFPX 讨论区
 
-For issues about specific projects, create an issue in that project's repository.
+对于一个特定的项目，你可以在项目的仓库中创建一个 issues 。
 
-For issues about VFPX itself, create an issue in the [VFPX Issues](https://github.com/VFPX/VFPXIssues) repository.
+而如果针对的是 VFPX，你可以在 [VFPX Issues](https://github.com/VFPX/VFPXIssues) 创建一个 issues 。
 
-### Get Involved
+### 如何参与 VFPX 
 
-VFPX is a volunteer effort in need of project managers, designers, developers, documentation specialists, testers, sales people, marketing, and visionaries. Determine how you can help and get involved. Plainly put, this is a significant part of the future of Visual FoxPro. You can decide if you are going to sit by and watch, or get involved. The more people who participate in this effort, the less each of us has to work to make it a success. Help get the word out!  
+VFPX 是一个志愿者项目。它需要项目经理、设计师、开发人员、文档专家、测试人员、销售人员、市场人员和具有远见卓识的人参与其中。简而言之，它是 Visual FoxPro 的未来中重要的必不可少的一部分。你可以在忽略、旁观和参与其中进行选择。众人拾柴火焰高，参与的人越多，我们每个人的工作就越少，成功的概率就越高。即使你打算立刻忽略它，也请你把 VFPX 介绍给你的朋友！
 
-If you want to get involved on one or more of the many projects included in VFPX, contact the project manager and let them know you are interested in helping out. The project manager knows resources required and roles needed on the project. You work with the project manager to determine the role you will play.
+如果你想为一个或多个项目提供帮助，请联系项目经理，让他们知道有人对他们的工作感兴趣并乐意提供帮助。项目经理会依据项目所需的资源和角色来确定你们之间要如何合作。预祝你们合作愉快！
 
 ### Promote VFPX
 
