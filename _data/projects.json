@@ -102,30 +102,30 @@
   {
     "project": "Control Renamer Builder",
     "url": "https://github.com/VFPX/ControlRenamerBuilder",
-    "description": "Builder designed to rename controls and reference to controls in the method codes",
-    "state": "Production",
-    "category": "Tool"
+    "description": "对象重命名工具，并自动更改方法代码中对该对象的引用",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "Converter",
     "url": "https://github.com/VFPX/Converter",
-    "description": "Converts files created in FoxPro 2.6 and earlier versions of VFP to the current VFP format (XSource)",
-    "state": "Production",
-    "category": "Tool"
+    "description": "将在 FoxPro 2.6 和早期版本的 VFP 中创建的文件转换为当前的 VFP 格式(XSource)",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "CoverageProfiler",
     "url": "https://github.com/VFPX/CoverageProfiler",
-    "description": "Provides analysis of coverage logs (XSource)",
-    "state": "Production",
-    "category": "Tool"
+    "description": "提供覆盖日志分析(XSource)",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "CPZero",
     "url": "https://github.com/VFPX/CPZero",
-    "description": "Pokes a codepage byte into a database header (VFP Tools folder)",
-    "state": "Production",
-    "category": "Tool"
+    "description": "更改代码页(VFP Tools 目录)",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "CSVProcessor",
