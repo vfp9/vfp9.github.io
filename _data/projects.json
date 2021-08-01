@@ -233,9 +233,9 @@
   {
     "project": "FileSpec",
     "url": "https://github.com/VFPX/FileSpec",
-    "description": "The descriptions of the table structures for .dbc, .frx, .lbx, .mnx, .pjx, .scx, and .vcx files (VFP Tools folder)",
-    "state": "Production",
-    "category": "Tool"
+    "description": ".dbc、.frx、.lbx、.mnx、.pjx、.scx 和 .vcx 文件的表结构描述(VFP Tools 目录)",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "Finder",
