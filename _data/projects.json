@@ -90,7 +90,7 @@
     "description": "用于找出不良编程习惯并帮助你查找重构代码可能的工具",
     "state": "完成",
     "category": "工具",
-    "url2": "https://github.com/vfp9/CodeAnalyst"
+    "url2": "https://github.com/vfp9/CodeAnalyst" 
   },
   {
     "project": "CodeReferences",
