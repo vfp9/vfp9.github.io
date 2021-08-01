@@ -11,7 +11,8 @@
     "url": "https://github.com/VFPX/AlternateSCCText",
     "description": "scctext.prg 的改进版本",
     "state": "完成",
-    "category": "工具"
+    "category": "工具",
+    "url2": "https://github.com/vfp9/AlternateSCCText"
   },
   {
     "project": "Analyzer",
@@ -51,44 +52,45 @@
   {
     "project": "BlackFox",
     "url": "https://github.com/Irwin1985/BlackFox",
-    "description": "Ease verbose code for modern language constructs like JSON notation, HTTP protocol by providing a Visual FoxPro grammar",
+    "description": "通过提供 VFP 语法，为现代语言结构（如JSON符号、HTTP协议）简化冗长的代码",
     "state": "Beta",
-    "category": "Component"
+    "category": "组件"
   },
   {
     "project": "Builders",
     "url": "https://github.com/VFPX/Builders",
-    "description": "Tools that aid in setting properties of controls on a form (XSource)",
-    "state": "Production",
-    "category": "Tool"
+    "description": "帮助设置表单上控件属性的工具(XSource)",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "CalendarCalc",
     "url": "https://github.com/atlopes/calendar",
-    "description": "Provides a set of classes to perform specific calendrical processing tasks, help with internationalization, and build multicultural solutions",
-    "state": "Production",
-    "category": "Component"
+    "description": "提供一组类来执行特定的日历处理任务，帮助实现国际化，并建立多语言解决方案",
+    "state": "完成",
+    "category": "组件"
   },
   {
     "project": "ClassBrowser",
     "url": "https://github.com/VFPX/ClassBrowser",
-    "description": "View, use, and manage classes and their user-defined members (XSource)",
-    "state": "Production",
-    "category": "Tool"
+    "description": "类浏览器(XSource)",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "ClassBrowserX",
     "url": "https://github.com/VFPX/ClassBrowserX",
-    "description": "Standard VFP ClassBrowser with enhancements to the Export Code feature",
+    "description": "为标准的类浏览器添加增强的导出功能",
     "state": "Alpha",
-    "category": "Tool"
+    "category": "工具"
   },
   {
     "project": "Code Analyst",
     "url": "https://github.com/VFPX/CodeAnalyst",
-    "description": "Tool to help your recognize refactoring opportunities by spotting bad smells you select",
-    "state": "Production",
-    "category": "Tool"
+    "description": "用于找出不良编程习惯并帮助你查找重构代码可能的工具",
+    "state": "完成",
+    "category": "工具",
+    "url2": "https://github.com/vfp9/CodeAnalyst"
   },
   {
     "project": "CodeReferences",
