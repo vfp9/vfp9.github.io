@@ -2,51 +2,51 @@
   {
     "project": "AddLabel",
     "url": "https://github.com/VFPX/AddLabel",
-    "description": "Add custom label sizes to the New Label dialog in the Label Designer (XSource)",
-    "state": "Production",
-    "category": "Tool"
+    "description": "在标签设计器中将自定义标签尺寸添加到新建标签对话框(XSource)",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "Alternate SCCText",
     "url": "https://github.com/VFPX/AlternateSCCText",
-    "description": "New and improved version of source code control to text program",
-    "state": "Production",
-    "category": "Tool"
+    "description": "scctext.prg 的改进版本",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "Analyzer",
     "url": "https://github.com/VFPX/Analyzer",
-    "description": "Provides a way to dynamically trace the structure and symbols in Visual FoxPro application files (VFP Tools folder)",
-    "state": "Production",
-    "category": "Tool"
+    "description": "提供了一种动态追踪 VFP 应用程序文件中的结构和符号的方法(VFP Tools 目录)",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "Automated Build",
     "url": "https://github.com/VFPX/AutomatedBuild",
-    "description": "Automate your VFP application builds with extensions to CruiseControl.NET",
-    "state": "Release candidate",
-    "category": "Tool"
+    "description": "利用 CruiseControl.NET 的扩展功能实现 VFP 应用程序构建的自动化",
+    "state": "候选发布版本",
+    "category": "工具"
   },
   {
     "project": "Automated Test Harness",
     "url": "https://github.com/VFPX/AATest",
-    "description": "Provides automated testing (VFP Tools folder)",
-    "state": "Production",
-    "category": "Tool"
+    "description": "提供自动化测试(VFP Tools 目录)",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "Beautify",
     "url": "https://github.com/VFPX/Beautify",
-    "description": "Specify capitalization and indentation styles for code (XSource)",
-    "state": "Production",
-    "category": "Tool"
+    "description": "代码美化程序(XSource)",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "Bin 2 Text Extension",
     "url": "https://github.com/lscheffler/bin2text",
-    "description": "Better Visual FoxPro IDE integration with [FoxBin2Prg](https://github.com/fdbozzo/foxbin2prg)",
-    "state": "Production",
-    "category": "Tool"
+    "description": "用于更好的将 VFP IDE 与 [FoxBin2Prg](https://github.com/fdbozzo/foxbin2prg) 进行整合",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "BlackFox",
