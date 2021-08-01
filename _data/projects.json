@@ -579,7 +579,8 @@
     "url": "https://github.com/VFPX/PEMEditor",
     "description": "替换固有的对话框来添加、编辑和维护属性、事件和方法",
     "state": "完成",
-    "category": "工具"
+    "category": "工具",
+    "url2": "https://github.com/vfp9/VFPX_CN/blob/master/VFPX_PEM%20Editor7.20.59_CN.rar"
   },
   {
     "project": "PopMenu Project",
@@ -628,296 +629,304 @@
   {
     "project": "SCCText",
     "url": "https://github.com/VFPX/SCCText",
-    "description": "Translates Visual FoxPro binary files into text equivalents and back (VFP Tools folder)",
-    "state": "Production",
-    "category": "Tool"
+    "description": "将 Visual FoxPro 二进制文件翻译成等价的文本文件并返回(VFP Tools 目录)",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "Sedna",
     "url": "https://github.com/VFPX/Sedna",
     "description": "Microsoft Visual FoxPro 9.0 \"Sedna\" Add-Ons",
-    "state": "Production",
-    "category": "Component"
+    "state": "完成",
+    "category": "组件"
   },
   {
     "project": "SFMail",
     "url": "https://github.com/DougHennig/SFMail",
-    "description": "A library to send emails from VFP applications",
+    "description": "从 VFP 应用中发送电子邮件的类库",
     "state": "Beta",
-    "category": "Component"
+    "category": "组件"
   },
   {
     "project": "ssClasses",
     "url": "https://github.com/VFPX/ssClasses",
-    "description": "Library of useful classes",
-    "state": "Production",
-    "category": "Component"
+    "description": "一套非常有用的类库",
+    "state": "完成",
+    "category": "组件"
   },
   {
     "project": "StripeX",
     "url": "http://github.com/VFPX/StripeX",
-    "description": "Provides a wrapper for working with Stripe.com",
-    "state": "Production",
-    "category": "Component"
+    "description": "封装了对 Stripe.com 的应用",
+    "state": "完成",
+    "category": "组件"
   },
   {
     "project": "SubFox",
     "url": "https://github.com/VFPX/SubFox",
-    "description": "Seamless integration for Subversion source code control",
+    "description": "无缝集成 Subversion 源代码控制",
     "state": "Beta",
-    "category": "Tool"
+    "category": "工具"
   },
   {
     "project": "Tab Menu",
     "url": "https://github.com/VFPX/TabMenu",
-    "description": "Ribbon control generated from VFP menus",
+    "description": "从 VFP 菜单生成 Ribbon 菜单控件",
     "state": "Beta",
-    "category": "Component"
+    "category": "组件",
+    "url2": "https://github.com/vfp9/VFPX_CN/blob/master/VFPX_Tab%20Menu%20%E6%8C%87%E5%8D%97.rar"
   },
   {
     "project": "TabbingNavigation",
     "url": "https://github.com/VFPX/TabbingNavigation",
-    "description": "Makes navigating through FoxPro the same experience as SQL Management Studio or Visual Studio",
+    "description": "使浏览 FoxPro 的体验与 SQL Management Studio 或 Visual Studio 相同",
     "state": "Alpha",
-    "category": "Tool"
+    "category": "工具"
   },
   {
     "project": "Table Designer X",
     "url": "https://github.com/VFPX/TableDesignerX",
-    "description": "Non-modal replacement for the VFP Table Designer",
-    "state": "Planning",
-    "category": "Tool"
+    "description": "非模式的 VFP 表设计器",
+    "state": "计划中",
+    "category": "工具"
   },
   {
     "project": "TaskListManager",
     "url": "https://github.com/VFPX/TaskListManager",
-    "description": "Keeps track of tasks (XSource)",
-    "state": "Production",
-    "category": "Tool"
+    "description": "追踪任务情况(XSource)",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "TaskPaneManager",
     "url": "https://github.com/VFPX/TaskPaneManager",
-    "description": "Displays links to useful information and dialogs for performing essential tasks (XSource)",
-    "state": "Production",
-    "category": "Tool"
+    "description": "任务面版(XSource)",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "ThemedControls",
     "url": "https://github.com/VFPX/ThemedControls",
-    "description": "OutlookNavBar and other controls to provide the Outlook look and feel in your VFP app",
-    "state": "Production",
-    "category": "Component"
+    "description": "在你的 VFP 应用中提供 OutlookNavBar 和其他的一些很酷的控件",
+    "state": "完成",
+    "category": "组件",
+    "url2": "https://github.com/vfp9/VFPX_CN/blob/master/VFPX_ThemedControls_3.5.9_CN.rar"
   },
   {
     "project": "ThemedTitleBar",
     "url": "https://github.com/VFPX/ThemedTitleBar",
-    "description": "Replace VFP form TitleBar with modern look",
+    "description": "用一个现代的UI来替换 VFP 表单的标题栏",
     "state": "Beta",
-    "category": "Component"
+    "category": "组件"
   },
   {
     "project": "Thor",
     "url": "https://github.com/VFPX/Thor",
-    "description": "Tool for managing add-on tools in the IDE (assigning hot keys, popup menus, etc); integrated with PEM Editor 7.",
-    "state": "Production",
-    "category": "Tool"
+    "description": "用于管理 IDE 中的附加工具的工具（分配热键、弹出菜单等）；与PEM Editor 7集成。",
+    "state": "完成",
+    "category": "工具",
+    "url2": "https://github.com/vfp9/Thor_CN"
   },
   {
     "project": "Thor Repository",
     "url": "https://github.com/VFPX/ThorRepository",
-    "description": "A collection of IDE tools, accessible thru Thor, that have been written by members of the FoxPro community.",
-    "state": "Production",
-    "category": "Tool"
+    "description": "一组由FoxPro社区成员编写的IDE工具，可通过 Thor 访问",
+    "state": "完成",
+    "category": "工具",
+    "url2": "https://github.com/vfp9/ThorRepository_CN"
   },
   {
     "project": "Toolbox",
     "url": "https://github.com/VFPX/Toolbox",
-    "description": "Displays items used in the creation of applications (XSource)",
-    "state": "Production",
-    "category": "Tool"
+    "description": "显示用于创建应用的可用项(XSource)",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "Tooltip",
     "url": "https://github.com/VFPX/CtlTip",
-    "description": "Improved tooltips for FoxPro forms controls, including multi-line",
-    "state": "Production",
-    "category": "Component"
+    "description": "改进的 FoxPro 表单控件工具提示，包括多行的工具提示。",
+    "state": "完成",
+    "category": "组件"
   },
   {
     "project": "TwilioX",
     "url": "https://github.com/VFPX/TwilioX",
-    "description": "Provides a wrapper class for calling Twilio.com to send texts",
-    "state": "Production",
-    "category": "Component"
+    "description": "提供一个封装类，用于调用 Twilio.com 发送短信",
+    "state": "完成",
+    "category": "组件"
   },
   {
     "project": "Upsizing Wizard",
     "url": "https://github.com/VFPX/UpsizingWizard",
-    "description": "An updated version of the Visual FoxPro 9.0 SP2 Upsizing Wizard (Sedna)",
-    "state": "Production",
-    "category": "Tool"
+    "description": "一个更新版本的 Visual FoxPro 9.0 SP2 Upsizing Wizard (Sedna)",
+    "state": "完成",
+    "category": "工具",
+    "url2": "https://github.com/vfp9/VFPX_CN/blob/master/OLD%20VERSION%20LOCAL/SQL%20Server%20Upsizing%20Wizard_CN.rar"
   },
   {
     "project": "UTCDatetime",
     "url": "https://github.com/atlopes/UTCDatetime",
-    "description": "Provides an object to process UTC and local time exchange in Visual FoxPro, for all current time zones around the world.",
-    "state": "Production",
-    "category": "Component"
+    "description": "提供了一个在Visual FoxPro中处理UTC和本地时间交换的对象，适用于当前世界各地的所有时区",
+    "state": "完成",
+    "category": "组件"
   },
   {
     "project": "VFP 9.0 Localization in French",
     "url": "https://github.com/VFPX/FrenchLocalization",
-    "description": "Provides a French-localized IDE and tools",
-    "state": "Production",
-    "category": "Tool"
+    "description": "VFP 法语版补丁",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "VFP 9.0 Localization in Russian",
     "url": "https://github.com/VFPX/RussianLocalization",
-    "description": "Provides a Russian-localized IDE and help",
-    "state": "Production",
-    "category": "Tool"
+    "description": "VFP 俄罗斯版补丁",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "VFP 9 SP2 Help File",
     "url": "https://github.com/VFPX/HelpFile",
-    "description": "Community maintained VFP 9 SP2 Help file (corrected and enhanced)",
-    "state": "Production",
-    "category": "Tool"
+    "description": "社区维护的 VFP 9 SP2 帮助文件 (corrected and enhanced)",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "VFP 9 SP2 Hotfix 3",
     "url": "https://github.com/VFPX/VFP9SP2Hotfix3",
-    "description": "Official download of Microsoft's VFP 9 SP2 Hotfix 3 file (KB 968409)",
-    "state": "Production",
-    "category": "Tool"
+    "description": "官方下载的微软VFP 9 SP2 Hotfix 3文件(KB 968409)",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "VFP Grid ManyHeader",
     "url": "https://github.com/VFPX/VFPGridManyHeader",
-    "description": "Custom container to replace and extend VFP's header functionality",
+    "description": "VFP Grid 双层标头",
     "state": "Alpha",
-    "category": "Component"
+    "category": "组件",
+    "url2": "https://github.com/VFPX/VFPGridManyHeader"
   },
   {
     "project": "VFP Runtime Installers",
     "url": "https://github.com/VFPX/VFPRuntimeInstallers",
-    "description": "Provides downloads for the VFP runtime installers",
-    "state": "Production",
-    "category": "Tool"
+    "description": "VFP 运行库",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "VFP2C32",
     "url": "https://github.com/ChristianEhlscheid/vfp2c32",
-    "description": "FLL over Windows API",
-    "state": "Production",
-    "category": "Component"
+    "description": "Windows API 上的 FLL",
+    "state": "完成",
+    "category": "组件",
+    "url2": "https://github.com/vfp9/vfp2c32"
   },
   {
     "project": "VFPClean",
     "url": "https://github.com/VFPX/VFPClean",
-    "description": "When reinstalling VFP, make sure all core Xbase and other files are set appropriately (XSource)",
-    "state": "Production",
-    "category": "Tool"
+    "description": "在重新安装VFP时，确保所有的核心Xbase和其他文件都得到适当的设置 (XSource)",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "VFPDosPrint",
     "url": "https://github.com/VFPX/VFPDosPrint",
-    "description": "Generate text-based reports that can take full advantage of dot-matrix printer capabilities.",
-    "state": "Production",
-    "category": "Component"
+    "description": "生成基于文本的报告，可以充分利用点阵打印机的功能。",
+    "state": "完成",
+    "category": "组件"
   },
   {
     "project": "VFP Editors",
     "url": "https://github.com/ggreen86/VFP-Editors",
-    "description": "VFP Editors for SCX, VCX. MNU, PRG, and DBF files; also Table Browser and Project Manager Replacements",
-    "state": "Production",
-    "category": "Tool"
+    "description": "用于SCX、VCX、MNU、PRG和DBF文件的VFP编辑器。还有表浏览器和项目管理器的替代品",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "VFPOAuth",
     "url": "http://github.com/VFPX/VFPOAuth",
-    "description": "Performs OAuth authentication based on the OAuth 1.0a protocol.",
+    "description": "根据OAuth 1.0a协议执行OAuth认证。",
     "state": "Alpha",
-    "category": "Component"
+    "category": "组件"
   },
   {
     "project": "VFPRegExTool",
     "url": "https://github.com/VFPX/VFPRegExTool",
-    "description": "Verify regular expressions visually & do replace operations using any VFP function - based on vbScript.regexp.",
-    "state": "Production",
-    "category": "Component"
+    "description": "可视化验证正则表达式并使用任何 VFP 函数进行替换操作 - 基于 vbScript.regexp",
+    "state": "完成",
+    "category": "组件"
   },
   {
     "project": "VFPTweetAPI",
     "url": "http://github.com/VFPX/VFPTweetAPI",
-    "description": "A wrapper around the Twitter API with the purpose of accessing Twitter from Visual FoxPro.",
+    "description": "一个 Twitter API 的封装，目的是为了从 Visual FoxPro 访问 Twitter",
     "state": "Alpha",
-    "category": "Component"
+    "category": "组件"
   },
   {
     "project": "VFPXTab",
     "url": "https://github.com/VFPX/VFPXTab",
-    "description": "Generates a cross-tabulation cursor (VFP Tools folder)",
-    "state": "Production",
-    "category": "Component"
+    "description": "生成一个交叉表游标(VFP Tools 目录)",
+    "state": "完成",
+    "category": "组件"
   },
   {
     "project": "VistaDialogs4COM",
     "url": "https://github.com/VFPX/VistaDialogs4COM",
-    "description": "A collection of classes that provide access to the Windows Vista TaskDialog and Common Dialogs (Sedna)",
-    "state": "Production",
-    "category": "Component"
+    "description": "提供对 Windows Vista TaskDialog 和 Common Dialogs 的访问的类的集合(Sedna)",
+    "state": "完成",
+    "category": "组件"
   },
   {
     "project": "Webservice",
     "url": "https://github.com/VFPX/Webservice",
     "description": "Web service wizard (XSource)",
-    "state": "Production",
-    "category": "Tool"
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "Win32API",
     "url": "https://github.com/VFPX/Win32API",
-    "description": "Provides documentation for calling hundreds of Win32API functions from VFP",
-    "state": "Production",
-    "category": "Tool"
+    "description": "提供从 VFP 调用数百个 Win32API 函数的文档",
+    "state": "完成",
+    "category": "工具",
+    "url2": "https://github.com/vfp9/Win32API"
   },
   {
     "project": "Win7TLib",
     "url": "https://github.com/VFPX/Win7TLib",
-    "description": "Integrate Windows 7 Taskbar Functionality into your VFP Applications",
+    "description": "将Windows 7任务栏功能整合到您的VFP应用程序中",
     "state": "Alpha",
-    "category": "Component"
+    "category": "组件"
   },
   {
     "project": "Wizards",
     "url": "https://github.com/VFPX/Wizards",
-    "description": "A collection of Wizard applications and productivity enhancement tools (XSource)",
-    "state": "Production",
-    "category": "Tool"
+    "description": "向导和生产力提升工具的集合 (XSource)",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "XLSXWorkbook",
     "url": "https://github.com/ggreen86/XLXS-Workbook-Class",
-    "description": "Read from and write to XLSX format files without any automation or export with support for full cell formatting",
-    "state": "Production",
-    "category": "Component"
+    "description": "读取和写入 XLSX 格式文件，无需任何自动化，支持完整单元格格式的导出",
+    "state": "完成",
+    "category": "组件"
   },
   {
     "project": "XML Library Set",
     "url": "https://github.com/atlopes/xml",
-    "description": "Extends the VFP XML processing capabilities",
-    "state": "Production",
-    "category": "Component"
+    "description": "扩展 VFP 的 XML 处理能力",
+    "state": "完成",
+    "category": "组件"
   },
   {
     "project": "XSource",
     "url": "https://github.com/VFPX/XSource",
     "description": "Microsoft Visual FoxPro 9.0 SP2 XSource Projects",
-    "state": "Production",
-    "category": "Tool"
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "ZintBarcode",
