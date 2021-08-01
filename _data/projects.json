@@ -130,9 +130,9 @@
   {
     "project": "CSVProcessor",
     "url": "https://github.com/atlopes/csv",
-    "description": "Extends VFP capabilities of CSV file handling",
-    "state": "Production",
-    "category": "Component"
+    "description": "扩展了 VFP 处理 CSV 文件的能力",
+    "state": "完成",
+    "category": "组件"
   },
   {
     "project": "ctl32_statusbar",
