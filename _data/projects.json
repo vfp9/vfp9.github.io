@@ -95,9 +95,9 @@
   {
     "project": "CodeReferences",
     "url": "https://github.com/VFPX/CodeReferences",
-    "description": "Search for occurrences of code (XSource)",
-    "state": "Production",
-    "category": "Tool"
+    "description": "代码引用(XSource)",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "Control Renamer Builder",
