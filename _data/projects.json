@@ -247,9 +247,10 @@
   {
     "project": "FoxBarCode",
     "url": "https://github.com/VFPX/FoxBarCode",
-    "description": "FoxBarcode provides a tool for generating images with different bar code symbologies.",
-    "state": "Production",
-    "category": "Component"
+    "description": "FoxBarcode 用于生成各种条形码",
+    "state": "完成",
+    "category": "组件",
+    "url2": "https://github.com/vfp9/VFPX_CN/blob/master/VFPX_FoxBarcode_v_1_12_CN.rar"
   },
   {
     "project": "FoxBarCodeQR",
