@@ -399,226 +399,231 @@
   {
     "project": "GenHTML",
     "url": "https://github.com/VFPX/GenHTML",
-    "description": "Generates HTML from forms, labels, reports, and menus (VFP home folder)",
-    "state": "Production",
-    "category": "Tool"
+    "description": "从表单、标签、报表和菜单生成 HTML(VFP 主目录)",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "GenMenu",
     "url": "https://github.com/VFPX/GenMenu",
-    "description": "Generates an MPR file from an MNX menu (VFP home folder)",
-    "state": "Production",
-    "category": "Tool"
+    "description": "从MNX菜单生成一个MPR文件(VFP 主目录)",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "GoFish",
     "url": "https://github.com/mattslay/GoFish",
-    "description": "GoFish is an advanced code search tool for fast searching of Visual FoxPro source code.",
-    "state": "Production",
-    "category": "Tool"
+    "description": "GoFish是一个先进的代码搜索工具，用于快速搜索 Visual FoxPro 源代码",
+    "state": "完成",
+    "category": "工具",
+    "url2": "https://github.com/vfp9/VFPX_CN/blob/master/VFPX_GoFish_Beta_5.0.146_CN.rar"
   },
   {
     "project": "HexEdit",
     "url": "https://github.com/VFPX/HexEdit",
-    "description": "Provides a way to examine address values, or examine or change byte and ASCII values of data in a file (VFP Tools folder)",
-    "state": "Production",
-    "category": "Tool"
+    "description": "提供一种检查地址值或检查或更改文件中数据的字节和 ASCII 值的方法(VFP Tools 目录)",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "iCal4VFP",
     "url": "https://github.com/atlopes/iCal4VFP",
-    "description": "A set of classes to handle iCalendar objects",
-    "state": "Production",
-    "category": "Component"
+    "description": "一组用于处理 iCalendar 对象的类",
+    "state": "完成",
+    "category": "组件"
   },
   {
     "project": "IntellisenseManager",
     "url": "https://github.com/VFPX/IntellisenseManager",
-    "description": "Perform IntelliSense management tasks (XSource)",
-    "state": "Production",
-    "category": "Tool"
+    "description": "执行智能感应的管理任务(XSource)",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "IntellisenseX",
     "url": "https://github.com/VFPX/IntelliSenseX",
-    "description": "Extensions to native Intellisense for field names, properties, local variables, and constants.",
-    "state": "Production",
-    "category": "Tool"
+    "description": "对字段名、属性、局部变量和常量的本地智能感应的扩展。",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "JustBehave",
     "url": "https://github.com/VFPX/JustBehave",
-    "description": "Extend the behavior of any VFP baseclass or custom framework class without additional code",
+    "description": "扩展任何 VFP 基类或自定义框架类的行为，无需额外的代码",
     "state": "Alpha",
-    "category": "Component"
+    "category": "组件"
   },
   {
     "project": "Log4VFP",
     "url": "https://github.com/VFPX/Log4VFP",
-    "description": "Provides a VFP wrapper for the Log4NET diagnostic logging library",
-    "state": "Production",
-    "category": "Component"
+    "description": "为 Log4NET 诊断日志库提供了一个VFP包装器。",
+    "state": "完成",
+    "category": "组件"
   },
   {
     "project": "MemberDataEditor",
     "url": "https://github.com/VFPX/MemberDataEditor",
-    "description": "An easy to use front-end to manage MemberData (XSource)",
-    "state": "Production",
-    "category": "Tool"
+    "description": "成员数据编辑器(XSource)",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "Microsoft Accessibility Browser (MSAA)",
     "url": "https://github.com/VFPX/MSAA",
-    "description": "Helps develop applications that are more accessible to people with disabilities, write automated test suites, or select and buy off-the-shelf test software (VFP Tools folder)",
-    "state": "Production",
-    "category": "Tool"
+    "description": "帮助开发对残疾人更无障碍的应用程序，编写自动测试套件，或选择和购买现成的测试软件 (VFP Tools 目录)",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "Multi-Select Combobox",
     "url": "https://github.com/VFPX/cboMultiSel",
-    "description": "Provides the ability to select multiple items from a table/cursor rowsource into a single, character-separated (concatenated) value",
-    "state": "Production",
-    "category": "Component"
+    "description": "提供从一个表格/游标的行中选择多个项目的能力，使其成为一个单一的、用字符分隔的（连接的）值",
+    "state": "完成",
+    "category": "组件"
   },
   {
     "project": "My for VFP",
     "url": "https://github.com/VFPX/My",
-    "description": "Exposes commonly used functionality in a hierarchy that is easy to discover and navigate (Sedna)",
-    "state": "Production",
-    "category": "Tool"
+    "description": "在易于查找和导航的层次结构中公开常用功能(Sedna)",
+    "state": "完成",
+    "category": "工具",
+    "url2": "https://github.com/vfp9/VFPX_CN/blob/master/Sedna/my_cn.chm"
   },
   {
     "project": "Name Syntax Checker",
     "url": "https://github.com/atlopes/names",
-    "description": "Verifies the correctness and controls the translation of a string into a syntactically correct name of a particular domain (the name of VFP variables or fields, the name of XML elements, etc.)",
-    "state": "Production",
-    "category": "Component"
+    "description": "验证一个字符串的正确性，并控制其翻译成特定领域的语法正确的名称（VFP变量或字段的名称，XML元素的名称，等等）。",
+    "state": "完成",
+    "category": "组件"
   },
   {
     "project": "NET4COM",
     "url": "https://github.com/VFPX/NET4COM",
-    "description": "A collection of COM classes that wrap a subset of the .NET Framework 2.0 (Sedna)",
-    "state": "Production",
-    "category": "Component"
+    "description": "一个 COM 类的集合，它是 .NET FrameWork 2.0 的一个子集(Sedna)",
+    "state": "完成",
+    "category": "组件"
   },
   {
     "project": "New Class Dialog Replacement",
     "url": "https://github.com/VFPX/NewClassDialogReplacement",
-    "description": "Replacement for VFP New Class dialog with more features",
+    "description": "用于替代 VFP 的新建类对话框，具有更多的功能",
     "state": "Alpha",
-    "category": "Tool"
+    "category": "工具"
   },
   {
     "project": "New Property/New Method Replacement",
     "url": "https://github.com/VFPX/NewPropertyDialog",
-    "description": "<em>Note: While this project isn't deprecated, its functionality is included in PEM Editor listed above.</em>",
-    "state": "Production",
-    "category": "Tool"
+    "description": "<em>注意：虽然这个项目没有被废弃，但它的功能已经包含在 PEM 编辑器中</em>",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "nfJson",
     "url": "https://github.com/VFPX/nfJson",
-    "description": "Provides a set of fast performance, reliable, and easy to use Json functions using pure VFP.",
-    "state": "Production",
-    "category": "Component"
+    "description": "使用纯VFP提供了一套性能快速、可靠、易于使用的 Json 函数",
+    "state": "完成",
+    "category": "组件"
   },
   {
     "project": "nfXML",
     "url": "https://github.com/VFPX/nfXML",
-    "description": "Provides powerful and simple to use functions to convert complex XML into a VFP (empty-based) object and vice versa.",
-    "state": "Production",
-    "category": "Component"
+    "description": "提供强大而简单的功能，将复杂的XML转换成VFP（基于 Empty）对象，反之亦然。",
+    "state": "完成",
+    "category": "组件"
   },
   {
     "project": "ObjectBrowser",
     "url": "https://github.com/VFPX/ObjectBrowser",
-    "description": "Displays the classes, properties, methods, events, and constants available for COM object libraries (XSource)",
-    "state": "Production",
-    "category": "Tool"
+    "description": "显示COM对象库可用的类、属性、方法、事件和常量(XSource)",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "OOP Menu Project",
     "url": "https://github.com/VFPX/OOPMenu",
-    "description": "Object-oriented menus",
-    "state": "Production",
-    "category": "Component"
+    "description": "面向对象的菜单",
+    "state": "完成",
+    "category": "组件"
   },
   {
     "project": "OOP Reports",
     "url": "https://github.com/VFPX/OOPReports",
-    "description": "Object-oriented reports",
-    "state": "Production",
-    "category": "Component"
+    "description": "面向对象的报表",
+    "state": "完成",
+    "category": "组件",
+    "url2": "https://github.com/vfp9/OOPReports"
   },
   {
     "project": "Organization Chart",
     "url": "https://github.com/VFPX/OrganizationChart",
-    "description": "Displays an organization tree view.",
+    "description": "显示一个组织机构图",
     "state": "Alpha",
-    "category": "Component"
+    "category": "组件"
   },
   {
     "project": "overHere",
     "url": "https://github.com/atlopes/overHere",
-    "description": "An SDK that wraps access to the resources of the Here.com location platform to easily integrate mapping and geolocation services and data into VFP applications",
+    "description": "一个SDK，它封装了对 Here.com 资源的访问，可以轻松地将地图和地理位置服务及数据整合到VFP应用程序中。",
     "state": "Alpha",
-    "category": "Component"
+    "category": "组件"
   },
   {
     "project": "ParallelFox",
     "url": "https://github.com/VFPX/ParallelFox",
-    "description": "Parallel Processing Library for Visual FoxPro",
-    "state": "Production",
-    "category": "Component"
+    "description": "Visual FoxPro 的并行处理库",
+    "state": "完成",
+    "category": "组件"
   },
   {
     "project": "PEM Editor",
     "url": "https://github.com/VFPX/PEMEditor",
-    "description": "Replacement for the native dialogs to add, edit and maintain properties, events, and methods",
-    "state": "Production",
-    "category": "Tool"
+    "description": "替换固有的对话框来添加、编辑和维护属性、事件和方法",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "PopMenu Project",
     "url": "https://github.com/VFPX/PopMenu",
-    "description": "Owner-drawn object-oriented shortcut menus",
+    "description": "自绘的面向对象的快捷菜单",
     "state": "Alpha",
-    "category": "Component"
+    "category": "组件",
+    "url2": "https://github.com/VFPX/PopMenu"
   },
   {
     "project": "Project Explorer",
     "url": "https://github.com/DougHennig/ProjectExplorer",
-    "description": "A replacement for the VFP Project Manager.",
-    "state": "Production",
-    "category": "Tool"
+    "description": "一个新的 VFP 项目管理器",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "ProjectHookX",
     "url": "https://github.com/VFPX/ProjectHookX",
-    "description": "Extendible projecthook class",
-    "state": "Production",
-    "category": "Tool"
+    "description": "扩展的项目钩子类",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "ReportingApps",
     "url": "https://github.com/VFPX/ReportingApps",
-    "description": "The default implementation of Visual FoxPro 9's Report Applications (XSource)",
-    "state": "Production",
-    "category": "Component"
+    "description": "VFP9 报表程序(XSource)",
+    "state": "完成",
+    "category": "组件",
+    "url2": "https://github.com/vfp9/ReportingApps"
   },
   {
     "project": "Ribbon Control",
     "url": "https://github.com/DougHennig/Ribbon",
-    "description": "A Microsoft Office 365-like ribbon control for VFP forms",
-    "state": "Release Candidate",
-    "category": "Component"
+    "description": "一个用于 VFP 表单的 Microsoft Office 365 样式的 ribbon 菜单控件",
+    "state": "候选发布版本",
+    "category": "组件"
   },
   {
     "project": "Samples",
     "url": "https://github.com/VFPX/Samples",
-    "description": "VFP samples (VFP Samples folder)",
-    "state": "Production",
-    "category": "Tool"
+    "description": "VFP 的示例 (VFP Samples 目录)",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "SCCText",
