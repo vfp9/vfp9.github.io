@@ -385,9 +385,9 @@
   {
     "project": "GDIPlusX",
     "url": "https://github.com/VFPX/GDIPlusX",
-    "description": "VFP 9.0 class libraries that wrap the 603 GDI+ Flat API functions of GDIPlus.dll",
-    "state": "Production",
-    "category": "Component"
+    "description": "VFP 9.0类库，包含了 GDIPlus.dll 中 603 个 GDI+ API 函数",
+    "state": "完成",
+    "category": "组件"
   },
   {
     "project": "GenDBC",
