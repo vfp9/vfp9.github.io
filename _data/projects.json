@@ -341,9 +341,10 @@
   {
     "project": "FoxTabs",
     "url": "https://github.com/VFPX/FoxTabs",
-    "description": "IDE enhancement assisting developers working with a project and numerous open files",
+    "description": "集成开发环境的改进，协助开发人员处理一个项目和许多打开的文件",
     "state": "Production",
-    "category": "Tool"
+    "category": "Tool",
+    "url2": "https://github.com/vfp9/VFPX_CN/blob/master/VFPX_FoxTabs_CN.rar"
   },
   {
     "project": "FoxTypes",
