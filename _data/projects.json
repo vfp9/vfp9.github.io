@@ -327,9 +327,9 @@
   {
     "project": "FoxStack",
     "url": "https://github.com/Irwin1985/FoxStack",
-    "description": "Stack class which models and implements Stack data structure in Visual FoxPro",
-    "state": "Production",
-    "category": "Component"
+    "description": "堆栈类，在Visual FoxPro中模拟和实现堆栈数据结构",
+    "state": "完成",
+    "category": "组件"
   },
   {
     "project": "FoxStringBuilder",
