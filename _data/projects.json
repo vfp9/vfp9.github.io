@@ -262,9 +262,9 @@
   {
     "project": "FoxBin2Prg",
     "url": "https://github.com/fdbozzo/foxbin2prg",
-    "description": "VFP 9 Binary to Text and Text to Binary converter. Replacement for SCCText(X) and TwoFox that is bi-directional (Text is editable)",
-    "state": "Production",
-    "category": "Tool"
+    "description": "VFP 9二进制到文本和文本到二进制转换器。用于替代 SCCText(X) 和 TwoFox ，它是双向的（文本可编辑）。",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "FoxCharts",
