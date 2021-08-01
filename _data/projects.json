@@ -181,9 +181,9 @@
   {
     "project": "Dynamic Forms",
     "url": "https://github.com/mattslay/DynamicForms",
-    "description": "Dynamically create forms from markup syntax.",
-    "state": "Production",
-    "category": "Component"
+    "description": "根据标记语法动态地创建表单",
+    "state": "完成",
+    "category": "组件"
   },
   {
     "project": "EnvironmentManager",
