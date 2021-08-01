@@ -306,9 +306,9 @@
   {
     "project": "FoxPro.h",
     "url": "https://github.com/VFPX/FoxProH",
-    "description": "Include file for commonly used constants in VFP (VFP home folder)",
-    "state": "Production",
-    "category": "Tool"
+    "description": "VFP中常量的包含文件(VFP 主目录)",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "FoxQueue",
