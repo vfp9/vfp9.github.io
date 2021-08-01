@@ -320,9 +320,9 @@
   {
     "project": "FoxRegEx",
     "url": "https://github.com/Irwin1985/FoxRegEx",
-    "description": "Performs validations on strings using Regular Expressions supported by VBScript",
-    "state": "Production",
-    "category": "Component"
+    "description": "使用 VBScript 支持的正则表达式对字符串执行验证",
+    "state": "完成",
+    "category": "组件"
   },
   {
     "project": "FoxStack",
