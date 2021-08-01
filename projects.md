@@ -34,8 +34,8 @@ This is a list of other open source VFP projects that aren't part of VFPX.
 <table>
 <thead>
 <tr>
-<td><strong>Project</strong></td>
-<td><strong>Description</strong></td>
+<td><strong>项目</strong></td>
+<td><strong>描述</strong></td>
 </tr>
 </thead>
 <tbody>
