@@ -226,9 +226,9 @@
   {
     "project": "Filer",
     "url": "https://github.com/VFPX/Filer",
-    "description": "Provides a file and text search engine without a user interface (VFP Tools folder)",
-    "state": "Production",
-    "category": "Tool"
+    "description": "提供一个无需界面交互的文件和文本搜索引擎(VFP Tools 目录)",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "FileSpec",
