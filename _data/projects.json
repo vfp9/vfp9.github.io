@@ -155,7 +155,8 @@
     "url": "https://github.com/rschummer/DataExplorer",
     "description": "基于 Sedna 版本的增强",
     "state": "候选发布版本",
-    "category": "工具"
+    "category": "工具",
+    "url2": "https://github.com/vfp9/VFPX_CN/blob/master/OLD%20VERSION%20LOCAL/DataExplorer_CN.rar"
   },
   {
     "project": "DBC Low Level Functions",
