@@ -394,7 +394,7 @@
     "url": "https://github.com/VFPX/GenDBC",
     "description": "生成一个可以重新创建数据库的程序(VFP Tools 目录)",
     "state": "完成",
-    "category": "Tool工具"
+    "category": "工具"
   },
   {
     "project": "GenHTML",
