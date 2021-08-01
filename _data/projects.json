@@ -151,16 +151,16 @@
   {
     "project": "DataExplorer 3",
     "url": "https://github.com/rschummer/DataExplorer",
-    "description": "Enhancements past the Sedna release.",
-    "state": "Release candidate",
-    "category": "Tool"
+    "description": "基于 Sedna 版本的增强",
+    "state": "候选发布版本",
+    "category": "工具"
   },
   {
     "project": "DBC Low Level Functions",
     "url": "https://github.com/VFPX/DBCLowLevelFunctions",
-    "description": "A library for reading and writing values of all properties and objects without opening a database with OPEN DATABASE",
-    "state": "Production",
-    "category": "Component"
+    "description": "一个用于读写所有属性和对象的值的库，无需用 OPEN DATABASE 打开数据库。",
+    "state": "完成",
+    "category": "组件"
   },
   {
     "project": "DDEX",
