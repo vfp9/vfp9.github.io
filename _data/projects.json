@@ -356,9 +356,10 @@
   {
     "project": "FoxUnit",
     "url": "https://github.com/VFPX/FoxUnit",
-    "description": "Unit Testing in Visual FoxPro",
-    "state": "Production",
-    "category": "Tool"
+    "description": "VFP 的单元测试",
+    "state": "完成",
+    "category": "工具",
+    "url2": "https://github.com/vfp9/FoxUnit"
   },
   {
     "project": "FRXTabs",
