@@ -197,9 +197,9 @@
   {
     "project": "ErrorHandler",
     "url": "https://github.com/DougHennig/ErrorHandler",
-    "description": "Provides a highly configurable and customizable error handler for any VFP application",
-    "state": "Production",
-    "category": "Component"
+    "description": "为所有 VFP 应用提供高可配置性和自定义的错误控制",
+    "state": "完成",
+    "category": "组件"
   },
   {
     "project": "ExcelXML",
