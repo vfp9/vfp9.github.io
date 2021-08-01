@@ -104,7 +104,8 @@
     "url": "https://github.com/VFPX/ControlRenamerBuilder",
     "description": "对象重命名工具，并自动更改方法代码中对该对象的引用",
     "state": "完成",
-    "category": "工具"
+    "category": "工具",
+    "url2": "https://github.com/vfp9/VFPX_CN/blob/master/VFPX_ControlRenamer_CN.rar"
   },
   {
     "project": "Converter",
