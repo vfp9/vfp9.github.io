@@ -2,111 +2,111 @@
  {
    "project": "DBF to Any Export",
    "url": "https://github.com/MJindrova/DBF2Any",
-   "description": "Export DBF to MSSQL, MDB, Oracle, MySQL and MSSQL CE"
+   "description": "导出 DBF 到 MSSQL, MDB, Oracle, MySQL 和 MSSQL CE"
  },
  {
    "project": "DT Class",
    "url": "https://github.com/MJindrova/dtclass",
-   "description": "Classes for working with date or datetime"
+   "description": "用于日期或日期时间的类"
  },
  {
    "project": "Editor Themes",
    "url": "https://github.com/nftools/EditorThemes",
-   "description": "Modern themes for the Visual FoxPro 9 Editor"
+   "description": "VFP9 编辑器的现代主题r"
  },
  {
    "project": "FoxDates",
    "url": "https://github.com/RickBorup/FoxDates",
-   "description": "FoxDates is a collection of helpful functions for working with dates and times in Visual FoxPro"
+   "description": "FoxDates 是一组用于在 VFP 中处理日期和时间的函数集合"
  },
  {
    "project": "Fox Pages Server",
    "url": "https://github.com/arquimedescrivelari/foxpages",
-   "description": "Fox Server Pages is a Visual Foxpro multithreaded webserver"
+   "description": "Fox Server Pages 是一个 VFP 多线程 WEB 服务"
  },
  {
    "project": "FoxSharp",
    "url": "https://github.com/Irwin1985/FoxSharp",
-   "description": "Domain-specific language for Visual FoxPro and C#"
+   "description": "用于 VFP 和 C# 特定领域的语言"
  },
  {
    "project": "FoxyPreviewer",
    "url": "http://www.foxypreviewer.com/",
-   "description": "Export your VFP reports to Images, RTF, PDF, HTML or XLS super easy! Send them by email! Enhance the look of your previews, and bring a new life to your APPs!"
+   "description": "轻松导出 VFP 报表为 Images, RTF, PDF, HTML 或 XLS ！并可以将它们作为邮件附件进行发送！拥有增强的预览外观，并为你的应用带来新的生命力！"
  },
  {
    "project": "FoxyXLS Class Fork",
    "url": "https://github.com/MJindrova/FOXYXLS",
-   "description": "Export table/cursor to XLS version 3"
+   "description": "导出 table/cursor 为 XLS version 3 格式"
  },
  {
    "project": "Hacker's Guide to Visual FoxPro",
    "url": "https://hackfox.github.io/",
-   "description": "An Irreverent Guide to How FoxPro Really Works"
+   "description": "关于 VFP 如何工作的指南"
  },
  {
    "project": "INTL",
    "url": "https://github.com/StevenBlack/intl",
-   "description": "Steven Black's INTL Toolkit for Visual FoxPro makes creating international and multilingual applications easy"
+   "description": "Steven Black's INTL Toolkit for Visual FoxPro 使创建国际和多语言应用程序变得容易"
  },
  {
    "project": "LINQ to VFP",
    "url": "https://github.com/tombrothers/LINQtoVFP",
-   "description": "An IQToolkit Provider that adds the ability to use Visual FoxPro Data as a LINQ data source."
+   "description": "IQToolkit Provider 增加了使用 VFP 数据作为 LINQ 数据源的能力"
  },
  {
    "project": "LockScreen Stack",
    "url": "https://github.com/MJindrova/LockScreenStack",
-   "description": "Class for managing value of LockScreen"
+   "description": "用于管理 LockScreen 属性值的类"
  },
  {
    "project": "Named Parameters",
    "url": "https://github.com/MJindrova/ParametersName",
-   "description": "The Named parameters utility for processing and checking input EXE/APP parameters."
+   "description": "用于处理和检查输入 EXE/APP 参数的命名参数实用程序。"
  },
  {
    "project": "Scrollable container",
    "url": "https://github.com/MJindrova/ViewPort",
-   "description": "Scrollable container"
+   "description": "带有滚动条的容器"
  },
  {
    "project": "Serializable VFP object to XML",
    "url": "https://github.com/MJindrova/SerializableObject",
-   "description": "Serializable object to XML"
+   "description": "将可序列化的对象转换为 XML "
  },
  {
    "project": "Stonefield Database Toolkit",
    "url": "https://github.com/DougHennig/StonefieldDatabaseToolkit",
-   "description": "Provides additional functionality to the Visual FoxPro data dictionary"
+   "description": "为Visual FoxPro数据字典提供额外的功能"
  },
  {
    "project": "VFP Client for ADO.Net",
    "url": "https://github.com/tombrothers/VfpClient",
-   "description": "A wrapper for the .NET System.Data.OleDb classes."
+   "description": "针对 .NET System.Data.OleDb 的封装"
  },
  {
    "project": "VFP Entity Framework Provider",
    "url": "https://github.com/tombrothers/VfpEntityFrameworkProvider2",
-   "description": "An Entity Framework Data Provider that adds the ability to use Visual FoxPro Data as an Entity Framework data source."
+   "description": "一个 Entity Framework Data Provider，增加了使用 VFP 数据作为 Entity Framework 数据源的能力"
  },
  {
    "project": "VFP git utils",
    "url": "https://github.com/mikepotjer/vfp-git-utils",
-   "description": "Git utilities for VFP, designed to work within the Thor repository (Mike Potjer)"
+   "description": "Git utilities for VFP, 设计用于在Thor资源库中工作（Mike Potjer）"
  },
  {
    "project": "VFP Help Online",
    "url": "https://www.vfphelp.com/help/index.htm",
-   "description": "The help for VFP 9 SP2 online"
+   "description": "VFP9 SP2 在线帮助文件"
  },
  {
    "project": "VFP System Variables",
    "url": "https://github.com/MJindrova/SystemVariables",
-   "description": "Documentation for VFP System Variables"
+   "description": "VFP 系统变量文档"
  },
  {
    "project": "WMIQuery",
    "url": "https://github.com/nftools/wmiquery",
-   "description": "Query any Windows WMI Class using just a line of code"
+   "description": "仅用一行代码查询任意 Windows WMI 类"
  }
 ]
