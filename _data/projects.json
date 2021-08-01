@@ -137,16 +137,16 @@
   {
     "project": "ctl32_statusbar",
     "url": "https://github.com/VFPX/ctl32_StatusBar",
-    "description": "Replacement for VFP _screen Status Bar, or can be used on a form",
-    "state": "Release candidate",
-    "category": "Component"
+    "description": "替换 VFP Screen 的状态栏，也可用于表单（译者注：一组用于 VFP 的现代控件）",
+    "state": "候选发布版本",
+    "category": "组件"
   },
   {
     "project": "Cursor and Connector Properties Viewer",
     "url": "https://github.com/VFPX/CCPropsViewer",
-    "description": "Library for displaying and setting cursor and connection properties",
-    "state": "Production",
-    "category": "Tool"
+    "description": "用于显示/设置游标和连接属性的库",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "DataExplorer 3",
