@@ -334,9 +334,9 @@
   {
     "project": "FoxStringBuilder",
     "url": "https://github.com/Irwin1985/FoxStringBuilder",
-    "description": "Creates a mutable sequence of characters",
-    "state": "Production",
-    "category": "Component"
+    "description": "用于创建可变的字符序列",
+    "state": "完成",
+    "category": "组件"
   },
   {
     "project": "FoxTabs",
