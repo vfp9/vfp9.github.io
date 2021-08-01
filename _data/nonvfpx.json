@@ -48,6 +48,7 @@
    "project": "INTL",
    "url": "https://github.com/StevenBlack/intl",
    "description": "Steven Black's INTL Toolkit for Visual FoxPro 使创建国际和多语言应用程序变得容易"
+   "url2":"https://github.com/vfp9/intl"
  },
  {
    "project": "LINQ to VFP",
@@ -78,6 +79,7 @@
    "project": "Stonefield Database Toolkit",
    "url": "https://github.com/DougHennig/StonefieldDatabaseToolkit",
    "description": "为Visual FoxPro数据字典提供额外的功能"
+   "url2":"https://github.com/vfp9/StonefieldDatabaseToolkit"
  },
  {
    "project": "VFP Client for ADO.Net",
