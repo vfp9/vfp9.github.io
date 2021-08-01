@@ -277,9 +277,10 @@
   {
     "project": "FoxcodePlus",
     "url": "https://github.com/VFPX/FoxcodePlus",
-    "description": "Visual Studio like extensions to Visual FoxPro IntelliSense.",
+    "description": "类似于 Visual Studio 的 VFP 智能感应的扩展",
     "state": "Beta",
-    "category": "Tool"
+    "category": "工具",
+    "": "https://github.com/vfp9/VFPX_CN/blob/master/VFPX_FoxcodePlus_beta_3.13.2_CN.rar"
   },
   {
     "project": "FoxFaker",
