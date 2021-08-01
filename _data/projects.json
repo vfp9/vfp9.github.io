@@ -292,9 +292,9 @@
   {
     "project": "FoxISAPI",
     "url": "https://github.com/VFPX/FoxISAPI",
-    "description": "Allows access to VFP Automation servers from any ISAPI supported Web server (VFP Tools folder)",
-    "state": "Production",
-    "category": "Component"
+    "description": "允许从任何支持ISAPI的网络服务器访问VFP自动化服务器(VFP Tools 目录)",
+    "state": "完成",
+    "category": "组件"
   },
   {
     "project": "FoxMock",
