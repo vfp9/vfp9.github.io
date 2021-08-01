@@ -3,15 +3,15 @@ layout: page
 permalink: /projects/
 ---
 
-## VFPX Projects
+## VFPX 项目
 
 <table>
 <thead>
 <tr>
-<td><strong>Project</strong></td>
-<td><strong>Description</strong></td>
-<td><strong>Category</strong></td>
-<td><strong>Status</strong></td>
+<td><strong>项目</strong></td>
+<td><strong>描述</strong></td>
+<td><strong>类别</strong></td>
+<td><strong>状态</strong></td>
 </tr>
 </thead>
 <tbody>
@@ -27,9 +27,9 @@ permalink: /projects/
 </tbody>
 </table>
 
-### Other Open Source VFP Projects
+### 其他开源的 VFP 项目
 
-This is a list of other open source VFP projects that aren't part of VFPX.
+下表中是其他开源的 VFP 项目，它们并不是 VFPX 的组成部分。
 
 <table>
 <thead>
