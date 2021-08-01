@@ -378,9 +378,9 @@
   {
     "project": "Gauge",
     "url": "https://github.com/VFPX/Gauge",
-    "description": "Draws gauges in VFP applications.",
-    "state": "Production",
-    "category": "Component"
+    "description": "VFP 应用中的仪表盘",
+    "state": "完成",
+    "category": "组件"
   },
   {
     "project": "GDIPlusX",
