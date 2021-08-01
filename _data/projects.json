@@ -907,15 +907,15 @@
   {
     "project": "ZintBarcode",
     "url": "https://github.com/atlopes/zintbarcode",
-    "description": "Integration of a wide range of 1D and 2D barcode technologies in VFP applications",
-    "state": "Production",
-    "category": "Component"
+    "description": "在 VFP 应用中集成多种条形码和二维码技术",
+    "state": "完成",
+    "category": "组件"
   },
   {
     "project": "zProc, zVFP, and zCOM IntelliSense Scripts",
     "url": "https://github.com/VFPX/zProc-zVFP-zCOM-IntelliSenseScripts",
-    "description": "Customized IntelliSense scripts listing user-defined, DLL, and native functions and COM objects",
+    "description": "自定义的智能感应脚本，用于列出用户自定义的内容、DLL、固有函数和 COM 对象",
     "state": "Alpha",
-    "category": "Tool"
+    "category": "工具"
   }
 ]
