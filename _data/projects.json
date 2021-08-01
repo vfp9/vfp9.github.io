@@ -211,9 +211,10 @@
   {
     "project": "FastXTab",
     "url": "https://github.com/VFPX/FastXTab",
-    "description": "A replacement for VFPXTab.prg that creates cross-tab tables and cursors",
-    "state": "Production",
-    "category": "Component"
+    "description": "VFPXTab.prg 的替代品，用于快速创建交叉表和游标",
+    "state": "完成",
+    "category": "组件",
+    "url2": "https://github.com/vfp9/FastXTab"
   },
   {
     "project": "FFC",
