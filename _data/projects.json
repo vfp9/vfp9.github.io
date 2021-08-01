@@ -342,16 +342,16 @@
     "project": "FoxTabs",
     "url": "https://github.com/VFPX/FoxTabs",
     "description": "IDE 的改进，协助开发人员处理一个项目和许多打开的文件",
-    "state": "Production",
-    "category": "Tool",
+    "state": "完成",
+    "category": "工具",
     "url2": "https://github.com/vfp9/VFPX_CN/blob/master/VFPX_FoxTabs_CN.rar"
   },
   {
     "project": "FoxTypes",
     "url": "https://github.com/eselje/FoxTypes",
-    "description": "Recreating C# static types in Visual FoxPro Code classes.",
+    "description": "在 VFP 代码中重建 C# 静态类型。",
     "state": "Beta",
-    "category": "Component"
+    "category": "组件"
   },
   {
     "project": "FoxUnit",
