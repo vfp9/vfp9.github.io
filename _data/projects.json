@@ -299,9 +299,9 @@
   {
     "project": "FoxMock",
     "url": "https://github.com/cwollenhaupt/foxmock",
-    "description": "Mocking framework for Microsoft Visual FoxPro",
-    "state": "Production",
-    "category": "Tool"
+    "description": "VFP 的模拟框架",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "FoxPro.h",
