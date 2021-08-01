@@ -219,9 +219,9 @@
   {
     "project": "FFC",
     "url": "https://github.com/VFPX/FFC",
-    "description": "Microsoft Visual FoxPro 9.0 Foundation Classes",
-    "state": "Production",
-    "category": "Component"
+    "description": "Microsoft Visual FoxPro 9.0 基础类",
+    "state": "完成",
+    "category": "组件"
   },
   {
     "project": "Filer",
