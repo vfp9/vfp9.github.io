@@ -306,16 +306,16 @@
   {
     "project": "FoxPro.h",
     "url": "https://github.com/VFPX/FoxProH",
-    "description": "VFP中常量的包含文件(VFP 主目录)",
+    "description": "VFP中常量的头文件(VFP 主目录)",
     "state": "完成",
     "category": "工具"
   },
   {
     "project": "FoxQueue",
     "url": "https://github.com/Irwin1985/FoxQueue",
-    "description": "FoxQueue is a queue implemented over array, using wrapping",
-    "state": "Production",
-    "category": "Component"
+    "description": "FoxQueue 是封装的通过数组实现的队列",
+    "state": "完成",
+    "category": "组件"
   },
   {
     "project": "FoxRegEx",
