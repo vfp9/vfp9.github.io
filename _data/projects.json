@@ -240,9 +240,9 @@
   {
     "project": "Finder",
     "url": "https://github.com/VFPX/Finder",
-    "description": "Search tool to find names of files or classes in a project or folder.",
-    "state": "Production",
-    "category": "Tool"
+    "description": "在项目或目录中搜索文件或者类的工具",
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "FoxBarCode",
