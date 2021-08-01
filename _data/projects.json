@@ -146,7 +146,8 @@
     "url": "https://github.com/VFPX/CCPropsViewer",
     "description": "用于显示/设置游标和连接属性的库",
     "state": "完成",
-    "category": "工具"
+    "category": "工具",
+    "url2": "https://github.com/vfp9/CCPropsViewer"
   },
   {
     "project": "DataExplorer 3",
