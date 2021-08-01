@@ -204,9 +204,9 @@
   {
     "project": "ExcelXML",
     "url": "https://github.com/VFPX/ExcelXML",
-    "description": "Convert a Table or a Grid control into a Microsoft Excel XML Spreadsheet file.",
+    "description": "将表或者 Grid 转换为 Microsoft Excel XML Spreadsheet 文件",
     "state": "Beta",
-    "category": "Component"
+    "category": "组件"
   },
   {
     "project": "FastXTab",
