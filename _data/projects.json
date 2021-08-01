@@ -269,9 +269,10 @@
   {
     "project": "FoxCharts",
     "url": "https://github.com/VFPX/FoxCharts",
-    "description": "ActiveX-free charting leverages GDIPlusX",
-    "state": "Production",
-    "category": "Component"
+    "description": "使用 GDIPlusX 的 VFP 原生图表组件",
+    "state": "完成",
+    "category": "组件",
+    "url2": "https://github.com/vfp9/FoxCharts"
   },
   {
     "project": "FoxcodePlus",
