@@ -3,35 +3,34 @@ layout: page
 permalink: /newproject/
 ---
 
-## Adding a Project to VFPX
+## 向 VFPX 提交一个项目
 
-The project proposal process is fairly simple and designed to reduce administrative overhead for all involved. All you have to do us fill out a two-page VFPX Project Proposal ([Microsoft Word](VFPXProjectProposalTemplate.dot) or [Markdown](VFPXProjectProposal.md)) which provides the VFPX Administrators information needed to determine if the project fits into VFPX. Once you fill out the proposal, send the document to: projects AT vfpx DOT org.  
+项目提案的过程非常简单，你只需要提交两页的 VFPX 项目建议书(模板：[Microsoft Word](VFPXProjectProposalTemplate.dot) 或 [Markdown](VFPXProjectProposal.md))，在其中提供的信息，可以i帮助 VFPX 管理员确定其是否适合于 VFPX 。如果你准备好了，就可以将项目建议书发送至 projects@vfpx.org  
 
-The administrators will review the proposal and let you know if it will be included or not included. The review process time varies depending on how busy the administrators are when you submit the proposal. After all, they all have day jobs too, just like you.
+管理员将审查你的提案并尽快通知你是否同意将其纳入 VFPX。审查时间的长短要视你提交时管理员的繁忙程度。毕竟，他们和你一样，也有自己的日常工作。
 
-Once a project is accepted into VFPX, the project manager will be notified by one of the VFPX Administrators with the good news. The project manager then needs to decided if they really want to move forward and make the project a VFPX project.
+一旦项目被接纳，项目经理就会收到管理员的通知。项目经理就可以决定是否要将项目进行到底，并使其成为 VFPX 中的一部分。
 
-Please understand that by making the project a VFPX project, the project managers (and the developers or other owners) are giving up any and all copyrights of the source code and accept the open/shared source licensing dictated by VFPX. This is your last chance to back out, once acceptance is made and the news release and project have been posted to the VFPX site it becomes part of VFPX.
+请充分理解这一行为，一旦项目成为 VFPX 的一部分，项目经理（开发人员或其他所有者）将放弃和源代码有关的任何东西，包括所有版权。项目将遵循 VFPX 的开源/共享源代码协议。如果你犹豫，这就是你最后反悔的机会。一旦你接受，并且新闻和项目被发布到 VFPX 网站上，它就成为 VFPX 的一部分。
 
-The project manager also must decide whether the project will be under the VFPX repository (that is, github.com/VFPX/*ProjectName*) or in its own repository (that is, github.com/*ProjectManager*/*ProjectName*) but listed in the VFPX projects list.
+项目经理还必须决定其项目的位置，是在 VFPX 仓库下(例如, github.com/VFPX/*ProjectName*) 还是在自己的仓库下(例如, github.com/*ProjectManager*/*ProjectName*)。
 
-What happens next depends on whether the project is under the VFPX repository or in its own repository.
+依据项目经理选择的项目位置而进行接下来的步骤。
 
-## Under the VFPX repository
-Once the project manager has confirmed that they want to go ahead with the project and that it should be under the VFPX repository, the following steps get the project started:
+## 放置在 VFPX 仓库
+一旦项目经理确认要将项目进行下去，将需要遵循下面的步骤：
 
-* The project manager sends the VFPX Administrator their GitHub ID so they can be added as a collaborator for the project on GitHub.
-* The VFPX Administrator creates a new GitHub repository under VFPX for the project, adds the project manager as a colloborator for the project, and sends the project manager the URL for the repository.
-* The VFPX Administrator creates a post about the project on the VFPX site to promote the new project.
-* The VFPX Administrator adds the project to the [VFPX project list](https://vfpx.github.io/projects/).
-* The project manager creates a Git repository on their machine for the source code (if not already done), including a README.md file which describes the project, and pushes it to the GitHub repository for the project.
+* 项目经理需要将自己的 GitHub ID 发送给管理员，这样，管理员就可以将其加入项目合作者名单；
+* 管理员在 VFPX 下创建一个新的项目，并将项目经理列为项目合作者，然后将项目 URL 发送给项目经理；
+* VFPX 管理员在网站创建一条新闻来对其予以宣传；
+* VFPX 管理员将项目添加到 [VFPX 项目列表](https://vfpx.github.io/projects/)；
+* 项目经理在自己的电脑上创建一个 git 仓库(如果尚未创建)，并在其中创建 README.md 文件，让后将它们推送到项目的 GitHub 仓库。
 
-## Its own repository
-Once the project manager has confirmed that they want to go ahead with the project and that it should be in its own repository, the following steps get the project started:
+## 放置在自己的仓库
+一旦项目经理确认要将项目进行下去，将需要遵循下面的步骤：
 
-* The project manager sends the VFPX Administrator the link for the GitHub repository for the project.
-* The VFPX Administrator creates a post about the project on the VFPX site to promote the new project.
-* The VFPX Administrator adds the project to the [VFPX project list](https://vfpx.github.io/projects/).
+* 将项目的 URL 发送给 VFPX 管理员；
+* VFPX 管理员在网站创建一条新闻来对其予以宣传；
+* VFPX 管理员将项目添加到 [VFPX 项目列表](https://vfpx.github.io/projects/)。
 
-It is up to the project manager to determine the resource needs, who is working on the project, who is working on what aspects of the project,
-and how to manage the source code control and releases. If the project manager needs any advice or want to bounce ideas off someone outside of the immediate team, please feel free to ask any of the VFPX Administrators.
+由项目经理来确定资源需求，谁做这个项目，谁做这个项目的哪些方面，以及如何管理源代码控制和发布。如果项目经理需要任何建议，或者想从团队以外的人那里得到想法，请随时询问任何 VFPX 管理员。
