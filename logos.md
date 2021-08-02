@@ -5,7 +5,7 @@ permalink: /logos/
 
 ## VFPX Logos and Images
 
-Graphics that can be used to brand/market VFPX including its projects, members, and other related entities.  
+可用于品牌/营销 VFPX 的图形，包括其项目、成员和其他相关实体。 
 
 ![vfpxbanner_large.gif](/images/vfpxbanner_large.gif)  
 ![vfpxbanner_small.gif](/images/vfpxbanner_small.gif)  
