@@ -3,49 +3,49 @@ layout: page
 permalink: /admin/
 ---
 
-## Administrator Notes
+## 管理员须知
 
-### Setting Up
+### 设置
 
-- Clone the GitHub Pages repository at <a href="https://github.com/VFPX/VFPX.github.io" target="_blank">https://github.com/VFPX/VFPX.github.io</a> so you can edit the documentation for VFPX.
+- 克隆GitHub Pages仓库，地址是<a href="https://github.com/VFPX/VFPX.github.io" target="_blank">https://github.com/VFPX/VFPX.github.io</a>，这样你就可以编辑VFPX的文档。
 
-- Tell Git about the GitHub repository:
+- 告诉Git关于GitHub仓库的信息。
 
         git remote add origin https://github.com/VFPX/VFPX.github.io.git
 
-### Adding a Project under VFPX
+### 在VFPX下添加一个项目
 
-- Go to <a href="https://github.com/VFPX" target="_blank">https://github.com/VFPX</a>
+- 进入<a href="https://github.com/VFPX" target="_blank">https://github.com/VFPX</a>。
 
-- Click the green New button.
+- 点击绿色的 "新建 "按钮。
 
-- Enter the repository name and description (in the case of a former CodePlex project, you can copy and paste the description from the CodePlex description).
+- 输入版本库的名称和描述（如果是以前的CodePlex项目，你可以从CodePlex的描述中复制和粘贴）。
 
-- Turn on “Initialize this repository with a README”.
+- 打开 "用README初始化此版本库"。
 
-- Click Create Repository.
+- 点击创建版本库。
 
-- Click the Settings icon for the repository, then choose Collaborators & Teams.
+- 点击该仓库的设置图标，然后选择合作者和团队。
 
-- Enter the GitHub user name of the project manager and click Add Collaborator.
+- 输入项目经理的GitHub用户名，点击添加合作者。
 
-- If this is one of the top six projects (only six projects can be pinned to the top), on the VFPX page, click “Customize pinned repositories” and in the dialog that appears, turn on the new repository and turn off another one. Then, in the pinned list, drag the new repository so it’s in the correct spot alphabetically.
+- 如果这是前六个项目之一（只有六个项目可以被钉在上面），在VFPX页面，点击 "自定义被钉的仓库"，在出现的对话框中，打开新的仓库，关闭另一个仓库。然后，在钉住的列表中，拖动新的版本库，使其按字母顺序位于正确的位置。
 
-- Edit projects.json in the _data folder and add an entry for the new project (in the case of a project migrated from CodePlex, edit the URL setting to the new repository), then commit and push.
+- 编辑 _data 文件夹中的 projects.json，为新项目添加一个条目（如果是从 CodePlex 迁移过来的项目，编辑 URL 设置为新仓库），然后提交并推送。
 
-- Create a new post about the project (see the  Creating a Post section).
+- 创建一个关于项目的新帖子（见创建帖子部分）。
 
-### Adding a Separate Project
+### 添加一个独立的项目
 
-- Edit projects.json in the _data folder and add an entry for the new project, then commit and push.
+- 编辑_data文件夹中的projects.json，为新项目添加一个条目，然后提交并推送。
 
-- Create a new post about the project (see the  Creating a Post section).
+- 创建一个关于这个项目的新帖子（见创建帖子部分）。
 
-### Creating a Post
+### 创建一个帖子
 
-- Create a new MD file in the _posts folder of your GitHub Pages repository. The file name should be YYYY-MM-DD-title.md, where YYYY-MM-DD is the date of the post and title should be a brief title with dashes in place of spaces.
+- 在你的GitHub Pages仓库的_posts文件夹下创建一个新的MD文件。文件名应该是 YYYY-MM-DD-title.md，其中 YYYY-MM-DD 是帖子的日期，title 应该是一个简短的标题，用破折号代替空格。
 
-- The content should start with this header:
+- 内容应该以这个标题开始。
 
         ---
         layout: post
@@ -54,10 +54,10 @@ permalink: /admin/
         categories: vfpx update
         ---
 
-    Use the appropriate GMT offset in place of -0500. You can use other keywords for categories.
+    使用适当的GMT偏移量来代替-0500。你可以使用其他的关键词作为类别。
 
-- After the header, put in any content you wish.
+- 在标题之后，放入任何你想要的内容。
 
-- After editing the file, open it in Notepad++ and choose Convert to UTF-8 (Convert to UTF-8 Without BOM in older versions of Notepad++) from the Encoding menu; without this, the page won't appear correctly on GitHub.
+- 编辑完文件后，在 Notepad++ 中打开，从编码菜单中选择转换为 UTF-8（在旧版本的 Notepad++ 中选择转换为无 BOM 的 UTF-8）；不这样做，页面就不会在 GitHub 上正确显示。
 
-- Add the file to the repository, commit, and push.
+- 将文件添加到仓库，提交，然后推送。
