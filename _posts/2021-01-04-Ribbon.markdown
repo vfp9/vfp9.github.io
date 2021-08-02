@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Ribbon"
+title:  "新的 VFPX 项目：Ribbon"
 date:   2021-01-04 09:00:00 -0500
 categories: vfpx update
 ---
 
-The [Ribbon Control](https://github.com/DougHennig/Ribbon) project by Doug Hennig provides a Microsoft Office 365-like ribbon control for VFP forms.
+Doug Hennig的[Ribbon Control](https://github.com/DougHennig/Ribbon)项目为VFP表单提供了一个类似微软Office 365的Ribbon控件。
