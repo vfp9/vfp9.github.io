@@ -23,7 +23,7 @@ permalink: /newproject/
 * 项目经理需要将自己的 GitHub ID 发送给管理员，这样，管理员就可以将其加入项目合作者名单；
 * 管理员在 VFPX 下创建一个新的项目，并将项目经理列为项目合作者，然后将项目 URL 发送给项目经理；
 * VFPX 管理员在网站创建一条新闻来对其予以宣传；
-* VFPX 管理员将项目添加到 [VFPX 项目列表](https://vfpx.github.io/projects/)；
+* VFPX 管理员将项目添加到 [VFPX 项目列表](https://vfp9.github.io/projects/)；
 * 项目经理在自己的电脑上创建一个 git 仓库(如果尚未创建)，并在其中创建 README.md 文件，让后将它们推送到项目的 GitHub 仓库。
 
 ## 放置在自己的仓库
@@ -31,6 +31,6 @@ permalink: /newproject/
 
 * 将项目的 URL 发送给 VFPX 管理员；
 * VFPX 管理员在网站创建一条新闻来对其予以宣传；
-* VFPX 管理员将项目添加到 [VFPX 项目列表](https://vfpx.github.io/projects/)。
+* VFPX 管理员将项目添加到 [VFPX 项目列表](https://vfp9.github.io/projects/)。
 
 由项目经理来确定资源需求，谁做这个项目，谁做这个项目的哪些方面，以及如何管理源代码控制和发布。如果项目经理需要任何建议，或者想从团队以外的人那里得到想法，请随时询问任何 VFPX 管理员。
