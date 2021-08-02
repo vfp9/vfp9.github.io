@@ -3,23 +3,23 @@ layout: page
 permalink: /tips/
 ---
 
-## Information for Project Managers  
+## 项目管理须知 
 
-### Migrating from CodePlex
+### 此项目由 CodePlex 迁移过来
 
-If you currently have a VFPX project on CodePlex, we have [detailed instructions](/migrating/index.html) to migrate it to GitHub.
+如果你目前在CodePlex上有一个VFPX项目，我们有[详细说明](/migrating/index.html)来把它迁移到GitHub。
 
 ### Logos
 
-You can add [VFPX logos](/logos/index.html) to your source code, project Wiki page, your web site, etc.
+你可以在你的源代码中增加 [VFPX logos](/logos/index.html)、项目 WIKI、你自己的站点等等。
 
 ### Tips
 
-This is a work in progress so feel free to add your own notes or comments that you believe will helpful to other project managers on VFPX.
+这项工作是随时进行的，所以，请及时添加你认为对其他项目经理（VFPX 项目中的）有益的注释和评论。
 
-*   **Create a README.md file for your project**: Important information to include would be
-    *   Your name and contact information
-    *   A brief description of your project
-    *   Instructions on how to join the project
-*   **Convert binary files to their text equivalents**: Use [FoxBin2PRG](https://github.com/fdbozzo/foxbin2prg), [Alternate SCCText](https://github.com/VFPX/AlternateSCCText), [SubFox](https://github.com/VFPX/SubFox), or a similar program to convert VFP binary files, such as VCXs and SCXs, to text files so changes can be seen visually and merged together.
-*   **Thor updater**: If you want your project to be available for download through Thor, see [Supporting Thor Updater](ThorUpdate.md) for the necessary steps. Matt Slay's blog post <a href="http://mattslay.com/how-thor-checks-and-distributes-new-versions-of-tools-in-foxpro/" target="_blank">How Thor Checks And Distributes New Versions Of Tools In FoxPro</a> has a great background on the Thor update process.
+*   **在你的项目中添加 README.md 文件**：至少需要包括以下信息
+    *   姓名和联系方式
+    *   项目简述
+    *   关于如何加入项目的说明
+*   **将二进制文件转换为对应的文本**： 使用[FoxBin2PRG](https://github.com/fdbozzo/foxbin2prg), [Alternate SCCText](https://github.com/VFPX/AlternateSCCText), [SubFox](https://github.com/VFPX/SubFox), 或类似的程序将 VFP 二进制文件，如 VCX 和 SCX，转换成文本文件，这样可以直观地看到变化并进行合并。
+*   **Thor 更新**：如果你希望你的项目可以通过 Thor 下载，请参阅 [Supporting Thor Updater](ThorUpdate.md) 了解必要的步骤。Matt Slay 的博文 <a href="http://mattslay.com/how-thor-checks-and-distributes-new-versions-of-tools-in-foxpro/" target="_blank">How Thor Checks and Distributes New Versions of Tools In FoxPro</a> 对了解 Thor 的更新过程非常有用。
