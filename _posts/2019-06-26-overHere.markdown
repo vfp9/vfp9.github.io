@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "New overHere Project"
+title:  "新的 VFPX 项目： overHere"
 date:   2019-06-26 15:00:00 -0500
 categories: vfpx update
 ---
 
-The new [overHere](https://github.com/atlopes/overHere) project provides an SDK that wraps access to the resources of the Here.com location platform to easily integrate mapping and geolocation services and data into VFP applications.
+新的[overHere](https://github.com/atlopes/overHere)项目提供了一个SDK，它封装了对Here.com位置平台资源的访问，以便轻松地将地图和地理定位服务和数据集成到VFP应用程序中。
