@@ -22,4 +22,4 @@ permalink: /about/
 
 [xinjie](mailto:411618689@qq.com)
 
-感谢 [龙岩耐思](http://www.fjlynice.com/) [Deepl](https://www.deepl.com/translator)、[Google](https://translate.google.cn/?hl=zh-CN&tab=TT)
+感谢 [龙岩耐思](http://www.fjlynice.com/)、 [Deepl](https://www.deepl.com/translator)、[Google](https://translate.google.cn/?hl=zh-CN&tab=TT)
