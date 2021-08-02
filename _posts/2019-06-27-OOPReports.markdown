@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "New OOP Reports Project"
+title:  "新的 VFPX 项目： OOP Reports"
 date:   2019-06-27 15:00:00 -0500
 categories: vfpx update
 ---
 
-The new [OOP Reports](https://github.com/vfpx/oopreports) project provides object-oriented report creation and modification.
+新的[OOP Reports](https://github.com/vfpx/oopreports)项目提供面向对象的报表创建和修改。
