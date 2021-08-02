@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "New VFPX Project: Project Explorer"
+title:  "新的 VFPX 项目: Project Explorer"
 date:   2017-10-03 09:00:00 -0500
 categories: vfpx update
 ---
 
-[Project Explorer](https://github.com/DougHennig/ProjectExplorer) is a new VFPX project that replaces the Project Manager with a modern interface and modern capabilities. It has most of the features of the Project Manager but adds integration with DVCS (including built-in support for FoxBin2PRG and optional auto-commit after changes), support for multiple projects within a "solution," allows you to organize your items by keyword or other criteria, and has support for easy "auto-registering" addins that can customize the appearance and behavior of the tool.
+[Project Explorer](https://github.com/DougHennig/ProjectExplorer) 是一个新的VFPX项目，它以现代界面和现代功能取代了项目管理器。它具有项目经理的大部分功能，但增加了与DVCS的集成（包括对FoxBin2PRG的内置支持和更改后的可选自动提交），支持 "解决方案 "中的多个项目，允许你按关键词或其他标准组织你的项目，并支持易于 "自动注册 "的插件，可以自定义工具的外观和行为。
