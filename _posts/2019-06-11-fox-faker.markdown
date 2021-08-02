@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "New FoxFaker Project"
+title:  "新的 VFPX 项目： FoxFaker"
 date:   2019-06-11 15:00:00 -0500
 categories: vfpx update
 ---
 
-The new [FoxFaker](https://github.com/Irwin1985/FoxFaker) project is a Visual FoxPro Class library that generates fake data for you. FoxFaker was written with the purpose to be used with FoxUnit and FoxMock libraries.
+新的[FoxFaker](https://github.com/Irwin1985/FoxFaker)项目是一个Visual FoxPro类库，为你生成假数据。编写FoxFaker的目的是为了与FoxUnit和FoxMock库一起使用。
