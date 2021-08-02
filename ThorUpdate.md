@@ -3,23 +3,23 @@ layout: page
 permalink: /thorupdate/
 ---
 
-## Supporting Thor Updater
+## 支持 Thor 更新
 
-These steps/notes allow you to include your project in the Thor Updater dialog so users can easily install your project and update to the latest version without having to clone your project's repository. 
+以下步骤/说明允许在 Thor 更新对话框中包含你的项目，这样用户可以很容易的安装并更新你的项目到最新版本，而不用克隆你的项目库。 
 
-1. Create a subdirectory of your project folder named ThorUpdater.
+1. 在你的项目中创建一个名为 ThorUpdater 的子目录；
 
-2. Download [ThorUpdater.zip](https://vfpx.github.io/ThorUpdater/ThorUpdater.zip) and unzip it in the ThorUpdater folder. This zip file contains CreateThorUpdate.ps1, Project.txt, Version.txt, Thor_Update_Template.prg, and Thor_Update_Template_With_Menu.prg
+2. 下载 [ThorUpdater.zip](https://vfpx.github.io/ThorUpdater/ThorUpdater.zip) 并将其解压至 ThorUpdater 目录。这个压缩文件包含文件 CreateThorUpdate.ps1、Project.txt、Version.txt、 Thor_Update_Template.prg 和 Thor_Update_Template_With_Menu.prg；
 
-3. Edit Project.txt to specify your project information:
+3. 编辑 Project.txt 来包含你的项目信息：
 
-    - appName is the display name for the project.
+    - appName 是显示的项目名称
     
-    - appID is similar to appName but must be URL-friendly (no spaces or other illegal URL characters).
+    - appID 类似于 appName，但是它是一个友好的 URL（没有空格和其他非法字符的 URL） 
 
-    - majorVersion is the major version number, such as 1.0.
+    - majorVersion 是主版本号，例如 1.0
 
-    - excludeFiles is a comma-delimited list of file names to exclude from the zip file. Wildcards are allowed, so use *.bak to exclude BAK files. Don't put any spaces before or after commas or it won't work.
+    - excludeFiles 是以逗号分隔的文件名列表，用于从压缩文件中排除一些文件。允许使用通配符，所以可以使用 *.bak 来排除备份文件。逗号前后不允许有空格，否则，将无法启作用。
 
     - excludeFolders is a comma-delimited list of folders to exclude from the zip file. Put an * before and after each folder name since they're treated as wildcards (for example, *Docs* to exclude any folder containing "Docs" in the name). Don't put any spaces before or after commas or it won't work.
 
