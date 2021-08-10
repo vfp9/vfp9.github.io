@@ -37,3 +37,5 @@ VFPX 是一个志愿者项目。它需要项目经理、设计师、开发人员
 * 在FoxCentral.net以及各种Fox论坛和列表服务器上发表关于项目和发布的帖子。
 
 ![tweet.png](/images/tweet.png) <a href="https://twitter.com/vfpx" target="_blank">VFPX Tweets</a>
+
+<a href="https://vfpx.github.io" target="_blank">英文版(English version)</a>
