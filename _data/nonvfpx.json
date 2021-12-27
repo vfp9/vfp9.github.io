@@ -4,6 +4,11 @@
    "url": "https://github.com/MJindrova/DBF2Any",
    "description": "导出 DBF 到 MSSQL, MDB, Oracle, MySQL 和 MSSQL CE"
  },
+  {
+   "project": "DotNet2Fox",
+   "url": "https://github.com/JoelLeach/DotNet2Fox",
+   "description": "用于从 .NET 调用 Visual FoxPro 代码的库"
+ },
  {
    "project": "DT Class",
    "url": "https://github.com/MJindrova/dtclass",
