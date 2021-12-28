@@ -19,10 +19,25 @@
    "url": "https://github.com/nftools/EditorThemes",
    "description": "VFP9 编辑器的现代主题r"
  },
+  {
+   "project": "FoxCryptoNG",
+   "url": "https://github.com/cwollenhaupt/foxCryptoNG",
+   "description": "为 Microsoft 的 Cryptography API: Next Generation 提供简化的接口: Next Generation"
+ },
  {
    "project": "FoxDates",
    "url": "https://github.com/RickBorup/FoxDates",
    "description": "FoxDates 是一组用于在 VFP 中处理日期和时间的函数集合"
+ },
+  {
+   "project": "FoxGitIgnore",
+   "url": "https://github.com/cwollenhaupt/foxGitIgnore",
+   "description": "用于 FoxPro 开发的通用 .gitignore 文件。 排除通常不属于签入源代码的文件"
+ },
+ {
+   "project": "FoxMock",
+   "url": "https://github.com/cwollenhaupt/foxmock",
+   "description": "Microsoft Visual FoxPro 的模拟框架"
  },
  {
    "project": "Fox Pages Server",
