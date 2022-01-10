@@ -125,8 +125,8 @@
     "project": "Coverage Viewer",
     "url": "https://github.com/VFPX/CoverageViewer",
     "description": "分析覆盖率日志并创建一个带有代码部分链接的网页",
-    "state": "Production",
-    "category": "Tool"
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "CPZero",
@@ -549,8 +549,8 @@
     "project": "Object Inspector",
     "url": "https://github.com/VFPX/ObjectInspector",
     "description": "浏览对象和/或集合，显示所有子对象及其所有属性的值",
-    "state": "Production",
-    "category": "Tool"
+    "state": "完成",
+    "category": "工具"
   },
   {
     "project": "OOP Menu Project",
