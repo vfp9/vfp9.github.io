@@ -189,7 +189,7 @@
   },
   {
     "project": "Dynamic Forms",
-    "url": "https://github.com/mattslay/DynamicForms",
+    "url": "https://github.com/vfpx/DynamicForms",
     "description": "根据标记语法动态地创建表单",
     "state": "完成",
     "category": "组件"
@@ -419,7 +419,7 @@
   },
   {
     "project": "GoFish",
-    "url": "https://github.com/mattslay/GoFish",
+    "url": "https://github.com/vfpx/GoFish",
     "description": "GoFish是一个先进的代码搜索工具，用于快速搜索 Visual FoxPro 源代码",
     "state": "完成",
     "category": "工具",
