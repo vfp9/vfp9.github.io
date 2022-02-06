@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "MattSlay"
+date:   2022-02-03 14:00:00 -0500
+categories: vfpx update
+---
+
+如你所知，Matt Slay 以于 2021 年去世。他是 Fox 社区和 VFPX 的伟大贡献者，我们非常怀念他。
+
+我们已经分叉了他的两个项目，GoFish 和 Dynamic Forms，VFPX 项目列表现在的链接指向分叉的存储库，而不是他的原始存储库。 这将允许社区成员继续从事这些项目。
