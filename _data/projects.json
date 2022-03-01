@@ -552,7 +552,14 @@
     "state": "完成",
     "category": "工具"
   },
-    {
+   {
+    "project": "Object Explorer",
+    "url": "https://github.com/VFPX/ObjectExplorer",
+    "description": "提供一个资源管理器表单来查看指定对象的成员",
+    "state": "完成",
+    "category": "工具"
+  },
+  {
     "project": "Object Inspector",
     "url": "https://github.com/VFPX/ObjectInspector",
     "description": "浏览对象和/或集合，显示所有子对象及其所有属性的值",
