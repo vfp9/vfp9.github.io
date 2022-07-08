@@ -70,6 +70,11 @@
    "description": "Steven Black's INTL Toolkit for Visual FoxPro 使创建国际和多语言应用程序变得容易",
    "url2": "https://github.com/vfp9/intl"
  },
+  {
+   "project": "JSON",
+   "url": "https://github.com/vespina/json",
+   "description": "100% VFP JSON 解析 & 工具"
+ },
  {
    "project": "LINQ to VFP",
    "url": "https://github.com/tombrothers/LINQtoVFP",
