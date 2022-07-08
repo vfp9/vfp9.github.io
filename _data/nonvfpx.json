@@ -90,6 +90,11 @@
    "url": "https://github.com/MJindrova/ParametersName",
    "description": "用于处理和检查输入 EXE/APP 参数的命名参数实用程序。"
  },
+  {
+   "project": "NF Themes",
+   "url": "https://github.com/nftools/nf-themes",
+   "description": "使用 Color Picker 实时设置 VFP 的颜色"
+ },
  {
    "project": "Scrollable container",
    "url": "https://github.com/MJindrova/ViewPort",
