@@ -187,6 +187,13 @@
     "category": "组件",
     "url2": "https://github.com/vfp9/DesktopAlerts"
   },
+    {
+    "project": "DotNet2Fox",
+    "url": "https://github.com/JoelLeach/DotNet2Fox",
+    "description": "在 .NET 桌面或 WEB 应用中简单的调用 Visual FoxPro 代码",
+    "state": "Production",
+    "category": "Component"
+  },
   {
     "project": "Dynamic Forms",
     "url": "https://github.com/vfpx/DynamicForms",
