@@ -304,6 +304,13 @@
     "category": "组件"
   },
   {
+    "project": "FoxExtends",
+    "url": "https://github.com/Irwin1985/FoxExtends",
+    "description": "提供用于处理数据结构如数组和字典的函数",
+    "state": "完成",
+    "category": "组件"
+  },
+  {
     "project": "FoxFaker",
     "url": "https://github.com/Irwin1985/FoxFaker",
     "description": "生成用于测试的假数据",
