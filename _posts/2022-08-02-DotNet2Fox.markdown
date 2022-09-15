@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "DotNet2Fox"
+date:   2022-08-02 9:30:00 -0500
+categories: vfpx update
+---
+
+你是否尝试过COM互操作，但却受到了一个又一个的限制？你是否发现通过COM暴露你现有的FoxPro代码需要进行重大的重构工作？[DotNet2Fox](https://github.com/JoelLeach/DotNet2Fox)提供了一个简化的接口来调用现有的真实世界的FoxPro代码，而且没有所有这些限制。
