@@ -70,6 +70,13 @@
     "state": "完成",
     "category": "组件"
   },
+    {
+    "project": "ChilkatVFP",
+    "url": "https://github.com/billand88/ChilkatVFP",
+    "description": "ChilkatVFP 是 Chilkat 库的 VFP 封装",
+    "state": "Beta",
+    "category": "组件"
+  },
   {
     "project": "ClassBrowser",
     "url": "https://github.com/VFPX/ClassBrowser",
