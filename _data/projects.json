@@ -49,7 +49,8 @@
     "state": "完成",
     "category": "工具"
   },
-    "project": "BindWinEvent",
+  {
+  "project": "BindWinEvent",
     "url": "https://github.com/JoelLeach/BindWinEvent",
     "description": "一个小框架，允许对Windows消息事件进行多重绑定",
     "state": "完成",
