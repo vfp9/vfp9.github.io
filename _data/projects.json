@@ -314,8 +314,8 @@
     "project": "FoxContainers",
     "url": "https://github.com/JoelLeach/FoxContainers",
     "description": "Visual FoxPro Docker Containers",
-    "state": "Production",
-    "category": "Tool"
+    "state": "完成",
+    "category": "工具"
   }, 
   {
     "project": "FoxEnv",
