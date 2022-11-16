@@ -311,6 +311,13 @@
     "url2": "https://github.com/vfp9/VFPX_CN/blob/master/VFPX_FoxcodePlus_beta_3.13.2_CN.rar"
   },
     {
+    "project": "FoxContainers",
+    "url": "https://github.com/JoelLeach/FoxContainers",
+    "description": "Visual FoxPro Docker Containers",
+    "state": "Production",
+    "category": "Tool"
+  }, 
+  {
     "project": "FoxEnv",
     "url": "https://github.com/Irwin1985/foxenv",
     "description": "共享私密数据的库 (database credentials, API keys, etc)",
