@@ -124,7 +124,7 @@
  {
    "project": "VFP For Notepad++",
    "url": "https://github.com/ToniKoehler/notepad-plus-plus-vfpLanguage",
-   "description": "Extends Notepad++ with Visual FoxPro Language (syntax highlighting and function list)"
+   "description": "用Visual FoxPro语言扩展Notepad++（语法高亮和函数列表）"
 },
  {
    "project": "VFP git utils",
