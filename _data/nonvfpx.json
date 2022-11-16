@@ -122,6 +122,11 @@
    "description": "一个 Entity Framework Data Provider，增加了使用 VFP 数据作为 Entity Framework 数据源的能力"
  },
  {
+   "project": "VFP For Notepad++",
+   "url": "https://github.com/ToniKoehler/notepad-plus-plus-vfpLanguage",
+   "description": "Extends Notepad++ with Visual FoxPro Language (syntax highlighting and function list)"
+},
+ {
    "project": "VFP git utils",
    "url": "https://github.com/mikepotjer/vfp-git-utils",
    "description": "Git utilities for VFP, 设计用于在Thor资源库中工作（Mike Potjer）"
