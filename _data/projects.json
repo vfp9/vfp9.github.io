@@ -819,6 +819,13 @@
     "state": "完成",
     "category": "组件"
   },
+    {
+    "project": "Upsizer",
+    "url": "https://github.com/DougHennig/Upsizer",
+    "description": "升迁 VFP 自由表到 SQL Server",
+    "state": "Beta",
+    "category": "工具"
+  },
   {
     "project": "Upsizing Wizard",
     "url": "https://github.com/VFPX/UpsizingWizard",
