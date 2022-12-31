@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Upsizer"
+date:   2022-12-29 08:00:00 -0500
+categories: vfpx update
+---
+
+VFPX Upsizing Wizard 允许你将数据库表升迁到 SQL Serer。然而，它不支持自由表。[Upsizer](https://github.com/DougHennig/Upsizer) 允许你使用向导模式将自由表升迁到 SQL Server。
