@@ -467,6 +467,13 @@
     "category": "工具",
     "url2": "https://github.com/vfp9/VFPX_CN/blob/master/VFPX_GoFish_Beta_5.0.146_CN.rar"
   },
+    {
+    "project": "GoToDefinition",
+    "url": "https://github.com/VFPX/GoToDefinition",
+    "description": "提供跳到函数、常数、变量等定义的能力。",
+    "state": "完成",
+    "category": "工具"
+  },
   {
     "project": "HexEdit",
     "url": "https://github.com/VFPX/HexEdit",
