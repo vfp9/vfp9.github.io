@@ -509,6 +509,13 @@
     "state": "Alpha",
     "category": "组件"
   },
+   {
+    "project": "ListManager",
+    "url": "https://github.com/DougHennig/ListManager",
+    "description": "管理查找值的列表，并提供控件，以便用户可以从这些列表中选择值",
+    "state": "Beta",
+    "category": "组件"
+  },
   {
     "project": "Log4VFP",
     "url": "https://github.com/VFPX/Log4VFP",
