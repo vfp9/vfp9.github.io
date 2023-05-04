@@ -727,7 +727,7 @@
     {
     "project": "SF RegExp",
     "url": "https://github.com/lscheffler/sf_regexp",
-    "description": "VFP wrapper for DotNet RegExp",
+    "description": "DotNet 正则的 VFP 封装",
     "state": "Beta",
     "category": "组件"
   },
