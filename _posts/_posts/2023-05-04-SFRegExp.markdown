@@ -1,8 +1,0 @@
----
-layout: post
-title:  "SF RegExp"
-date:   2023-05-04 07:45:00 -0500
-categories: vfpx update
----
-
-[SF RegExp](https://github.com/lscheffler/sf_regexp) 是.NET正则表达式类的VFP封装。
