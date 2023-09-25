@@ -645,6 +645,13 @@
     "category": "组件"
   },
   {
+    "project": "Pandora",
+    "url": "https://github.com/tbleken/pandora",
+    "description": "VFP 程序员的瑞士军刀",
+    "state": "完成",
+    "category": "工具"
+  },
+  {
     "project": "ParallelFox",
     "url": "https://github.com/VFPX/ParallelFox",
     "description": "Visual FoxPro 的并行处理库",
