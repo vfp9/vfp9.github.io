@@ -509,6 +509,13 @@
     "state": "Alpha",
     "category": "组件"
   },
+    {
+    "project": "kvpReader",
+    "url": "https://github.com/Irwin1985/kvpReader",
+    "description": "Visual FoxPro 9.0 的键值对配置文件阅读器",
+    "state": "Beta",
+    "category": "组件"
+  },
    {
     "project": "ListManager",
     "url": "https://github.com/DougHennig/ListManager",
