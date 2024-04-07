@@ -460,6 +460,13 @@
     "category": "工具"
   },
   {
+    "project": "GenMenuX",
+    "url": "https://github.com/akselsoft/genmenux",
+    "description": "GenMenuX is a menu extender for Visual FoxPro.",
+    "state": "完成",
+    "category": "工具"
+  },
+  {
     "project": "GoFish",
     "url": "https://github.com/vfpx/GoFish",
     "description": "GoFish是一个先进的代码搜索工具，用于快速搜索 Visual FoxPro 源代码",
