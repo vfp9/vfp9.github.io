@@ -462,7 +462,7 @@
   {
     "project": "GenMenuX",
     "url": "https://github.com/akselsoft/genmenux",
-    "description": "GenMenuX is a menu extender for Visual FoxPro.",
+    "description": "GenMenuX 是 Visual FoxPro 的菜单扩展器。",
     "state": "完成",
     "category": "工具"
   },
