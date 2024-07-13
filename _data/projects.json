@@ -672,6 +672,13 @@
     "state": "完成",
     "category": "组件"
   },
+    {
+    "project": "pdfium-vfp",
+    "url": "https://github.com/dmitriychunikhin/pdfium-vfp",
+    "description": "Pdfium Viewer for Visual FoxPro",
+    "state": "完成",
+    "category": "组件"
+  },
   {
     "project": "PEM Editor",
     "url": "https://github.com/VFPX/PEMEditor",
