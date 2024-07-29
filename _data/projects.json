@@ -201,7 +201,14 @@
     "category": "组件",
     "url2": "https://github.com/vfp9/DesktopAlerts"
   },
-    {
+  {
+    "project": "DeployFox",
+    "url": "https://github.com/doughennig/deployfox",
+    "description": "通过提供可定制的任务列表，自动执行部署应用程序所需的步骤。",
+    "state": "Beta",
+    "category": "工具"
+  },
+  {
     "project": "DotNet2Fox",
     "url": "https://github.com/JoelLeach/DotNet2Fox",
     "description": "在 .NET 桌面或 WEB 应用中简单的调用 Visual FoxPro 代码",
@@ -335,6 +342,13 @@
     "project": "FoxFaker",
     "url": "https://github.com/Irwin1985/FoxFaker",
     "description": "生成用于测试的假数据",
+    "state": "完成",
+    "category": "工具"
+  },
+  {
+    "project": "FoxGet",
+    "url": "https://github.com/doughennig/foxget",
+    "description": "类似于 .NET 的 NuGet 的 VFP 软件包管理器",
     "state": "完成",
     "category": "工具"
   },
@@ -981,6 +995,13 @@
     "url": "http://github.com/VFPX/VFPTweetAPI",
     "description": "一个 Twitter API 的封装，目的是为了从 Visual FoxPro 访问 Twitter",
     "state": "Alpha",
+    "category": "组件"
+  },
+  {
+    "project": "VFPX Framework",
+    "url": "https://github.com/VFPX/VFPXFramework",
+    "description": "为任何项目提供基本用户界面类和常用功能。",
+    "state": "完成",
     "category": "组件"
   },
   {
