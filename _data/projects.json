@@ -735,7 +735,7 @@
     "project": "Ribbon Control",
     "url": "https://github.com/DougHennig/Ribbon",
     "description": "一个用于 VFP 表单的 Microsoft Office 365 样式的 ribbon 菜单控件",
-    "state": "候选发布版本",
+    "state": "完成",
     "category": "组件"
   },
   {
@@ -763,7 +763,7 @@
     "project": "SFMail",
     "url": "https://github.com/DougHennig/SFMail",
     "description": "从 VFP 应用中发送电子邮件的类库",
-    "state": "Beta",
+    "state": "完成",
     "category": "组件"
   },
     {
@@ -1037,7 +1037,7 @@
     "project": "Win7TLib",
     "url": "https://github.com/VFPX/Win7TLib",
     "description": "将Windows 7任务栏功能整合到您的VFP应用程序中",
-    "state": "Alpha",
+    "state": "完成",
     "category": "组件"
   },
   {
