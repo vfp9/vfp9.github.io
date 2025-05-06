@@ -679,6 +679,15 @@
     "state": "完成",
     "category": "工具"
   },
+    {
+     "project": "Pastewatch",
+     "url": "https://github.com/dmitriychunikhin/pastewatch-vfp",
+     "description": "为任何 VFP 9 控件添加复制粘贴处理功能",
+     "state": "Beta",
+     "category": "组件",
+ 	"thorcfu": true,
+ 	"foxget": false
+   },
   {
     "project": "ParallelFox",
     "url": "https://github.com/VFPX/ParallelFox",
