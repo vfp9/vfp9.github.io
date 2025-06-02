@@ -75,6 +75,11 @@
    "url": "https://github.com/vespina/json",
    "description": "100% VFP JSON 解析 & 工具"
  },
+  {
+   "project": "Ken's Libraries",
+   "url": "https://github.com/KenAGreen/KensLibraries",
+   "description": "多年来收集的函数库对象"
+ },
  {
    "project": "LINQ to VFP",
    "url": "https://github.com/tombrothers/LINQtoVFP",
