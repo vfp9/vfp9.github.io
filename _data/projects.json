@@ -156,6 +156,13 @@
     "state": "完成",
     "category": "组件"
   },
+    {
+    "project": "Create Memberdata of Prg-Based Class Code",
+    "url": "https://github.com/ToniKoehler/CreateMemberdataOfPrgBasedClasscode",
+    "description": "该程序生成您引用的程序的成员数据（方法和属性）。PRG:ClassName",
+    "state": "完成",
+    "category": "工具"
+  },
   {
     "project": "ctl32_statusbar",
     "url": "https://github.com/VFPX/ctl32_StatusBar",
