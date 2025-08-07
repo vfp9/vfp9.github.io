@@ -215,6 +215,14 @@
     "state": "Beta",
     "category": "工具"
   },
+    {
+    "project": "Document",
+    "url": "https://github.com/DougHennig/Document",
+    "description": "与 Amazon S3 API 交互以管理文档",
+    "state": "Beta",组件
+    "category": "",
+	"thorcfu": false,
+    },
   {
     "project": "DotNet2Fox",
     "url": "https://github.com/JoelLeach/DotNet2Fox",
@@ -1099,3 +1107,4 @@
     "category": "工具"
   }
 ]
+
