@@ -748,6 +748,13 @@
     "category": "工具"
   },
   {
+    "project": "ReadTypeLibsAndCreateIncludeFile",
+    "url": "https://github.com/ToniKoehler/ReadTypeLibsAndCreateIncludeFile",
+    "description": "Create Headerfile (.h) with constants and enums from typelibs in VFP",
+    "state": "完成",
+    "category": "工具"
+  },
+  {
     "project": "ReportingApps",
     "url": "https://github.com/VFPX/ReportingApps",
     "description": "VFP9 报表程序(XSource)",
