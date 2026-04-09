@@ -805,6 +805,13 @@
     "category": "组件"
   },
   {
+    "project": "Sidekick",
+    "url": "https://github.com/tbleken/sidekick",
+    "description": "一组强大的 VFP 附加工具，通过命令行语法启动，然后按下热键",
+    "state": "完成",
+    "category": "工具"
+  },
+	{
     "project": "ssClasses",
     "url": "https://github.com/VFPX/ssClasses",
     "description": "一套非常有用的类库",
