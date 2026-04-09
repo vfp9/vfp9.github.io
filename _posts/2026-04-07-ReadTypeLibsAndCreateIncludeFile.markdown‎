@@ -5,4 +5,4 @@ date:   2026-04-07 15:40:00 -0500
 categories: vfpx update
 ---
 
-[ReadTypeLibsAndCreateIncludeFile](https://github.com/ToniKoehler/ReadTypeLibsAndCreateIncludeFile) 可以创建包含所有常量和枚举的头文件（.h）。这比将对象浏览器中的所有常量和枚举拖拽到 .prg 文件中更好、更快。
+[ReadTypeLibsAndCreateIncludeFile](https://github.com/ToniKoehler/ReadTypeLibsAndCreateIncludeFile) 可以创建包含所有常量和枚举的头文件(.h)。这比将对象浏览器中的所有常量和枚举拖拽到 .prg 文件中更好、更快。
