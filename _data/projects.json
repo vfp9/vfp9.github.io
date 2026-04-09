@@ -219,8 +219,8 @@
     "project": "Document",
     "url": "https://github.com/DougHennig/Document",
     "description": "与 Amazon S3 API 交互以管理文档",
-    "state": "Beta",组件
-    "category": "",
+    "state": "Beta",
+    "category": "组件",
 	"thorcfu": false,
     },
   {
