@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Sidekick"
+date:   2025-07-02 12:40:00 -0500
+categories: vfpx update
+---
+
+Pandora 项目已被 [Sidekick](https://github.com/tbleken/sidekick) 取代。Sidekick 是一组强大的 VFP 附加工具，可以通过命令行语法启动，然后按热键运行。
